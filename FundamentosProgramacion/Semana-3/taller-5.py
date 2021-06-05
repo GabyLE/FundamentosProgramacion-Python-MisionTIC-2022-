@@ -1,8 +1,7 @@
 from tkinter import *
-from tkinter import ttk
-from tkinter import messagebox
+import random
 
 v = Tk()
-v.title("Repartir baraja")
+v.title("Apuntado")
 
 # Label
