@@ -8,7 +8,7 @@ def repartir():
 
     f = 1
     c = 0
-    for i in range(20):
+    for i in range(10):
         #generar un número aleatorio
         nc = random.randrange(1,53)
         # cargar imagen
@@ -25,6 +25,6 @@ def repartir():
         if c >= 10:
             f += 1
             c = 0
-Button(v, text="Repartir", command=repartir).grid()
+Button(v, text="Repartir", command=repartir).grid(row=0, column=0)
 
 v.mainloop()
