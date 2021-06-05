@@ -4,3 +4,5 @@ from tkinter import messagebox
 
 v = Tk()
 v.title("Repartir baraja")
+
+# Label
