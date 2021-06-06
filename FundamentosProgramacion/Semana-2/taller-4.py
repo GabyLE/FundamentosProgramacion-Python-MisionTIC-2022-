@@ -58,4 +58,3 @@ btnG = Button(v, text="cos(x)", command=calcular)
 btnG.grid(row=2, column=0)
 
 v.mainloop()
-
