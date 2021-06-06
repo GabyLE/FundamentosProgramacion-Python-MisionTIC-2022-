@@ -40,4 +40,5 @@ for decimal in decimales:
         hex += hexadecimal[decimal]
 
 # SALIDA
+print()
 print("Hexadecimal: " + hex)
