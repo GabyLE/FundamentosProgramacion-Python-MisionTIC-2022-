@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Paises>
+  <Pais Nombre="Afganistán" NombreISO="Afganistán" CodigoA2="AF" CodigoA3="AFG" Codigo="004" />
+  <Pais Nombre="Åland" NombreISO="Åland, Islas" CodigoA2="AX" CodigoA3="ALA" Codigo="248" />
+  <Pais Nombre="Albania" NombreISO="Albania" CodigoA2="AL" CodigoA3="ALB" Codigo="008" />
+  <Pais Nombre="Alemania" NombreISO="Alemania" CodigoA2="DE" CodigoA3="DEU" Codigo="276" />
+  <Pais Nombre="Andorra" NombreISO="Andorra" CodigoA2="AD" CodigoA3="AND" Codigo="020" />
+  <Pais Nombre="Angola" NombreISO="Angola" CodigoA2="AO" CodigoA3="AGO" Codigo="024" />
+  <Pais Nombre="Anguila" NombreISO="Anguila" CodigoA2="AI" CodigoA3="AIA" Codigo="660" />
+  <Pais Nombre="Antártida" NombreISO="Antártida" CodigoA2="AQ" CodigoA3="ATA" Codigo="010" />
+  <Pais Nombre="Antigua y Barbuda" NombreISO="Antigua y Barbuda" CodigoA2="AG" CodigoA3="ATG" Codigo="028" />
+  <Pais Nombre="Arabia Saudita" NombreISO="Arabia Saudita" CodigoA2="SA" CodigoA3="SAU" Codigo="682" />
+  <Pais Nombre="Argelia" NombreISO="Argelia" CodigoA2="DZ" CodigoA3="DZA" Codigo="012" />
+  <Pais Nombre="Argentina" NombreISO="Argentina" CodigoA2="AR" CodigoA3="ARG" Codigo="032" />
+  <Pais Nombre="Armenia" NombreISO="Armenia" CodigoA2="AM" CodigoA3="ARM" Codigo="051" />
+  <Pais Nombre="Aruba" NombreISO="Aruba" CodigoA2="AW" CodigoA3="ABW" Codigo="533" />
+  <Pais Nombre="Australia" NombreISO="Australia" CodigoA2="AU" CodigoA3="AUS" Codigo="036" />
+  <Pais Nombre="Austria" NombreISO="Austria" CodigoA2="AT" CodigoA3="AUT" Codigo="040" />
+  <Pais Nombre="Azerbaiyán" NombreISO="Azerbaiyán" CodigoA2="AZ" CodigoA3="AZE" Codigo="031" />
+  <Pais Nombre="Bahamas" NombreISO="Bahamas (las)" CodigoA2="BS" CodigoA3="BHS" Codigo="044" />
+  <Pais Nombre="Bangladés" NombreISO="Bangladesh" CodigoA2="BD" CodigoA3="BGD" Codigo="050" />
+  <Pais Nombre="Barbados" NombreISO="Barbados" CodigoA2="BB" CodigoA3="BRB" Codigo="052" />
+  <Pais Nombre="Baréin" NombreISO="Bahrein" CodigoA2="BH" CodigoA3="BHR" Codigo="048" />
+  <Pais Nombre="Bélgica" NombreISO="Bélgica" CodigoA2="BE" CodigoA3="BEL" Codigo="056" />
+  <Pais Nombre="Belice" NombreISO="Belice" CodigoA2="BZ" CodigoA3="BLZ" Codigo="084" />
+  <Pais Nombre="Benín" NombreISO="Benin" CodigoA2="BJ" CodigoA3="BEN" Codigo="204" />
+  <Pais Nombre="Bermudas" NombreISO="Bermudas" CodigoA2="BM" CodigoA3="BMU" Codigo="060" />
+  <Pais Nombre="Bielorrusia" NombreISO="Belarús" CodigoA2="BY" CodigoA3="BLR" Codigo="112" />
+  <Pais Nombre="Bolivia" NombreISO="Bolivia (Estado Plurinacional de)" CodigoA2="BO" CodigoA3="BOL" Codigo="068" />
+  <Pais Nombre="Bonaire, San Eustaquio y Saba" NombreISO="Bonaire, San Eustaquio y Saba" CodigoA2="BQ" CodigoA3="BES" Codigo="535" />
+  <Pais Nombre="Bosnia y Herzegovina" NombreISO="Bosnia y Herzegovina" CodigoA2="BA" CodigoA3="BIH" Codigo="070" />
+  <Pais Nombre="Botsuana" NombreISO="Botswana" CodigoA2="BW" CodigoA3="BWA" Codigo="072" />
+  <Pais Nombre="Brasil" NombreISO="Brasil" CodigoA2="BR" CodigoA3="BRA" Codigo="076" />
+  <Pais Nombre="Brunéi" NombreISO="Brunei Darussalam" CodigoA2="BN" CodigoA3="BRN" Codigo="096" />
+  <Pais Nombre="Bulgaria" NombreISO="Bulgaria" CodigoA2="BG" CodigoA3="BGR" Codigo="100" />
+  <Pais Nombre="Burkina Faso" NombreISO="Burkina Faso" CodigoA2="BF" CodigoA3="BFA" Codigo="854" />
+  <Pais Nombre="Burundi" NombreISO="Burundi" CodigoA2="BI" CodigoA3="BDI" Codigo="108" />
+  <Pais Nombre="Bután" NombreISO="Bhután" CodigoA2="BT" CodigoA3="BTN" Codigo="064" />
+  <Pais Nombre="Cabo Verde" NombreISO="Cabo Verde" CodigoA2="CV" CodigoA3="CPV" Codigo="132" />
+  <Pais Nombre="Camboya" NombreISO="Camboya" CodigoA2="KH" CodigoA3="KHM" Codigo="116" />
+  <Pais Nombre="Camerún" NombreISO="Camerún" CodigoA2="CM" CodigoA3="CMR" Codigo="120" />
+  <Pais Nombre="Canadá" NombreISO="Canadá" CodigoA2="CA" CodigoA3="CAN" Codigo="124" />
+  <Pais Nombre="Catar" NombreISO="Qatar" CodigoA2="QA" CodigoA3="QAT" Codigo="634" />
+  <Pais Nombre="Chad" NombreISO="Chad" CodigoA2="TD" CodigoA3="TCD" Codigo="148" />
+  <Pais Nombre="Chile" NombreISO="Chile" CodigoA2="CL" CodigoA3="CHL" Codigo="152" />
+  <Pais Nombre="China" NombreISO="China" CodigoA2="CN" CodigoA3="CHN" Codigo="156" />
+  <Pais Nombre="Chipre" NombreISO="Chipre" CodigoA2="CY" CodigoA3="CYP" Codigo="196" />
+  <Pais Nombre="Colombia" NombreISO="Colombia" CodigoA2="CO" CodigoA3="COL" Codigo="170" />
+  <Pais Nombre="Comoras" NombreISO="Comoras (las)" CodigoA2="KM" CodigoA3="CON" Codigo="174" />
+  <Pais Nombre="Corea del Norte" NombreISO="Corea (la República Popular Democrática de)" CodigoA2="KP" CodigoA3="PRK" Codigo="408" />
+  <Pais Nombre="Corea del Sur" NombreISO="Corea (la República de)" CodigoA2="KR" CodigoA3="KOR" Codigo="410" />
+  <Pais Nombre="Costa de Marfil" NombreISO="Côte d’Ivoire" CodigoA2="CI" CodigoA3="CIV" Codigo="384" />
+  <Pais Nombre="Costa Rica" NombreISO="Costa Rica" CodigoA2="CR" CodigoA3="CRI" Codigo="188" />
+  <Pais Nombre="Croacia" NombreISO="Croacia" CodigoA2="HR" CodigoA3="HRV" Codigo="191" />
+  <Pais Nombre="Cuba" NombreISO="Cuba" CodigoA2="CU" CodigoA3="CUB" Codigo="192" />
+  <Pais Nombre="Curazao" NombreISO="Curaçao" CodigoA2="CW" CodigoA3="CUW" Codigo="531" />
+  <Pais Nombre="Dinamarca" NombreISO="Dinamarca" CodigoA2="DK" CodigoA3="DNK" Codigo="208" />
+  <Pais Nombre="Dominica" NombreISO="Dominica" CodigoA2="DM" CodigoA3="DMA" Codigo="212" />
+  <Pais Nombre="Ecuador" NombreISO="Ecuador" CodigoA2="EC" CodigoA3="ECU" Codigo="218" />
+  <Pais Nombre="Egipto" NombreISO="Egipto" CodigoA2="EG" CodigoA3="EGY" Codigo="818" />
+  <Pais Nombre="El Salvador" NombreISO="El Salvador" CodigoA2="SV" CodigoA3="SLV" Codigo="222" />
+  <Pais Nombre="Emiratos Árabes Unidos" NombreISO="Emiratos Árabes Unidos (los)" CodigoA2="AE" CodigoA3="ARE" Codigo="784" />
+  <Pais Nombre="Eritrea" NombreISO="Eritrea" CodigoA2="ER" CodigoA3="ERI" Codigo="232" />
+  <Pais Nombre="Eslovaquia" NombreISO="Eslovaquia" CodigoA2="SK" CodigoA3="SVK" Codigo="703" />
+  <Pais Nombre="Eslovenia" NombreISO="Eslovenia" CodigoA2="SI" CodigoA3="SVN" Codigo="705" />
+  <Pais Nombre="España" NombreISO="España" CodigoA2="ES" CodigoA3="ESP" Codigo="724" />
+  <Pais Nombre="Estados Unidos" NombreISO="Estados Unidos de América (los)" CodigoA2="US" CodigoA3="USA" Codigo="840" />
+  <Pais Nombre="Estonia" NombreISO="Estonia" CodigoA2="EE" CodigoA3="EST" Codigo="233" />
+  <Pais Nombre="Etiopía" NombreISO="Etiopía" CodigoA2="ET" CodigoA3="ETH" Codigo="231" />
+  <Pais Nombre="Filipinas" NombreISO="Filipinas (las)" CodigoA2="PH" CodigoA3="PHL" Codigo="608" />
+  <Pais Nombre="Finlandia" NombreISO="Finlandia" CodigoA2="FI" CodigoA3="FIN" Codigo="246" />
+  <Pais Nombre="Fiyi" NombreISO="Fiji" CodigoA2="FJ" CodigoA3="FJI" Codigo="242" />
+  <Pais Nombre="Francia" NombreISO="Francia" CodigoA2="FR" CodigoA3="FRA" Codigo="250" />
+  <Pais Nombre="Gabón" NombreISO="Gabón" CodigoA2="GA" CodigoA3="GAB" Codigo="266" />
+  <Pais Nombre="Gambia" NombreISO="Gambia (la)" CodigoA2="GM" CodigoA3="GMB" Codigo="270" />
+  <Pais Nombre="Georgia" NombreISO="Georgia" CodigoA2="GE" CodigoA3="GEO" Codigo="268" />
+  <Pais Nombre="Ghana" NombreISO="Ghana" CodigoA2="GH" CodigoA3="GHA" Codigo="288" />
+  <Pais Nombre="Gibraltar" NombreISO="Gibraltar" CodigoA2="GI" CodigoA3="GIB" Codigo="292" />
+  <Pais Nombre="Granada" NombreISO="Granada" CodigoA2="GD" CodigoA3="GRD" Codigo="308" />
+  <Pais Nombre="Grecia" NombreISO="Grecia" CodigoA2="GR" CodigoA3="GRC" Codigo="300" />
+  <Pais Nombre="Groenlandia" NombreISO="Groenlandia" CodigoA2="GL" CodigoA3="GRL" Codigo="304" />
+  <Pais Nombre="Guadalupe" NombreISO="Guadeloupe" CodigoA2="GP" CodigoA3="GLP" Codigo="312" />
+  <Pais Nombre="Guam" NombreISO="Guam" CodigoA2="GU" CodigoA3="GUM" Codigo="316" />
+  <Pais Nombre="Guatemala" NombreISO="Guatemala" CodigoA2="GT" CodigoA3="GTM" Codigo="320" />
+  <Pais Nombre="Guayana Francesa" NombreISO="Guayana Francesa" CodigoA2="GF" CodigoA3="GUF" Codigo="254" />
+  <Pais Nombre="Guernsey" NombreISO="Guernsey" CodigoA2="GG" CodigoA3="GGY" Codigo="831" />
+  <Pais Nombre="Guinea" NombreISO="Guinea" CodigoA2="GN" CodigoA3="GIN" Codigo="324" />
+  <Pais Nombre="Guinea-Bisáu" NombreISO="Guinea Bissau" CodigoA2="GW" CodigoA3="GNB" Codigo="624" />
+  <Pais Nombre="Guinea Ecuatorial" NombreISO="Guinea Ecuatorial" CodigoA2="GQ" CodigoA3="GNQ" Codigo="226" />
+  <Pais Nombre="Guyana" NombreISO="Guyana" CodigoA2="GY" CodigoA3="GUY" Codigo="328" />
+  <Pais Nombre="Haití" NombreISO="Haití" CodigoA2="HT" CodigoA3="HTI" Codigo="332" />
+  <Pais Nombre="Honduras" NombreISO="Honduras" CodigoA2="HN" CodigoA3="HND" Codigo="340" />
+  <Pais Nombre="Hong Kong" NombreISO="Hong Kong" CodigoA2="HK" CodigoA3="HKG" Codigo="344" />
+  <Pais Nombre="Hungría" NombreISO="Hungría" CodigoA2="HU" CodigoA3="HUN" Codigo="348" />
+  <Pais Nombre="India" NombreISO="India" CodigoA2="IN" CodigoA3="IND" Codigo="356" />
+  <Pais Nombre="Indonesia" NombreISO="Indonesia" CodigoA2="ID" CodigoA3="IDN" Codigo="360" />
+  <Pais Nombre="Irak" NombreISO="Iraq" CodigoA2="IQ" CodigoA3="IRQ" Codigo="368" />
+  <Pais Nombre="Irán" NombreISO="Irán (República Islámica de)" CodigoA2="IR" CodigoA3="IRN" Codigo="364" />
+  <Pais Nombre="Irlanda" NombreISO="Irlanda" CodigoA2="IE" CodigoA3="IRL" Codigo="372" />
+  <Pais Nombre="Isla Bouvet" NombreISO="Bouvet, Isla" CodigoA2="BV" CodigoA3="BVT" Codigo="074" />
+  <Pais Nombre="Isla de Man" NombreISO="Isla de Man" CodigoA2="IM" CodigoA3="IMN" Codigo="833" />
+  <Pais Nombre="Isla de Navidad" NombreISO="Navidad, Isla de" CodigoA2="CX" CodigoA3="CXR" Codigo="162" />
+  <Pais Nombre="Islandia" NombreISO="Islandia" CodigoA2="IS" CodigoA3="ISL" Codigo="352" />
+  <Pais Nombre="Islas Caimán" NombreISO="Caimán, (las) Islas" CodigoA2="KY" CodigoA3="CYM" Codigo="136" />
+  <Pais Nombre="Islas Cocos" NombreISO="Cocos / Keeling, (las) Islas" CodigoA2="CC" CodigoA3="CCK" Codigo="166" />
+  <Pais Nombre="Islas Cook" NombreISO="Cook, (las) Islas" CodigoA2="CK" CodigoA3="COK" Codigo="184" />
+  <Pais Nombre="Islas Feroe" NombreISO="Feroe, (las) Islas" CodigoA2="FO" CodigoA3="FRO" Codigo="234" />
+  <Pais Nombre="Islas Georgias del Sur y Sandwich del Sur" NombreISO="Georgia del Sur (la) y las Islas Sandwich del Sur" CodigoA2="GS" CodigoA3="SGS" Codigo="239" />
+  <Pais Nombre="Islas Heard y McDonald" NombreISO="Heard (Isla) e Islas McDonald" CodigoA2="HM" CodigoA3="HMD" Codigo="334" />
+  <Pais Nombre="Islas Malvinas" NombreISO="Malvinas [Falkland], (las) Islas" CodigoA2="FK" CodigoA3="FLK" Codigo="238" />
+  <Pais Nombre="Islas Marianas del Norte" NombreISO="Marianas del Norte, (las) Islas" CodigoA2="MP" CodigoA3="MNP" Codigo="580" />
+  <Pais Nombre="Islas Marshall" NombreISO="Marshall, (las) Islas" CodigoA2="MH" CodigoA3="MHL" Codigo="584" />
+  <Pais Nombre="Islas Pitcairn" NombreISO="Pitcairn" CodigoA2="PN" CodigoA3="PCN" Codigo="612" />
+  <Pais Nombre="Islas Salomón" NombreISO="Salomón, Islas" CodigoA2="SB" CodigoA3="SLB" Codigo="090" />
+  <Pais Nombre="Islas Turcas y Caicos" NombreISO="Turcas y Caicos, (las) Islas" CodigoA2="TC" CodigoA3="TCA" Codigo="796" />
+  <Pais Nombre="Islas ultramarinas de Estados Unidos" NombreISO="Islas Ultramarinas Menores de los Estados Unidos (las)" CodigoA2="UM" CodigoA3="UMI" Codigo="581" />
+  <Pais Nombre="Islas Vírgenes  Británicas" NombreISO="Vírgenes británicas, Islas" CodigoA2="VG" CodigoA3="VGB" Codigo="092" />
+  <Pais Nombre="Islas Vírgenes de los Estados Unidos" NombreISO="Vírgenes de los Estados Unidos, Islas" CodigoA2="VI" CodigoA3="VIR" Codigo="850" />
+  <Pais Nombre="Israel" NombreISO="Israel" CodigoA2="IL" CodigoA3="ISR" Codigo="376" />
+  <Pais Nombre="Italia" NombreISO="Italia" CodigoA2="IT" CodigoA3="ITA" Codigo="380" />
+  <Pais Nombre="Jamaica" NombreISO="Jamaica" CodigoA2="JM" CodigoA3="JAM" Codigo="388" />
+  <Pais Nombre="Japón" NombreISO="Japón" CodigoA2="JP" CodigoA3="JPN" Codigo="392" />
+  <Pais Nombre="Jersey" NombreISO="Jersey" CodigoA2="JE" CodigoA3="JEY" Codigo="832" />
+  <Pais Nombre="Jordania" NombreISO="Jordania" CodigoA2="JO" CodigoA3="JOR" Codigo="400" />
+  <Pais Nombre="Kazajistán" NombreISO="Kazajstán" CodigoA2="KZ" CodigoA3="KAZ" Codigo="398" />
+  <Pais Nombre="Kenia" NombreISO="Kenya" CodigoA2="KE" CodigoA3="KEN" Codigo="404" />
+  <Pais Nombre="Kirguistán" NombreISO="Kirguistán" CodigoA2="KG" CodigoA3="KGZ" Codigo="417" />
+  <Pais Nombre="Kiribati" NombreISO="Kiribati" CodigoA2="KI" CodigoA3="KIR" Codigo="296" />
+  <Pais Nombre="Kuwait" NombreISO="Kuwait" CodigoA2="KW" CodigoA3="KWT" Codigo="414" />
+  <Pais Nombre="Laos" NombreISO="Lao, (la) República Democrática Popular" CodigoA2="LA" CodigoA3="LAO" Codigo="418" />
+  <Pais Nombre="Lesoto" NombreISO="Lesotho" CodigoA2="LS" CodigoA3="LSO" Codigo="426" />
+  <Pais Nombre="Letonia" NombreISO="Letonia" CodigoA2="LV" CodigoA3="LVA" Codigo="428" />
+  <Pais Nombre="Líbano" NombreISO="Líbano" CodigoA2="LB" CodigoA3="LBN" Codigo="422" />
+  <Pais Nombre="Liberia" NombreISO="Liberia" CodigoA2="LR" CodigoA3="LBR" Codigo="430" />
+  <Pais Nombre="Libia" NombreISO="Libia" CodigoA2="LY" CodigoA3="LBY" Codigo="434" />
+  <Pais Nombre="Liechtenstein" NombreISO="Liechtenstein" CodigoA2="LI" CodigoA3="LIE" Codigo="438" />
+  <Pais Nombre="Lituania" NombreISO="Lituania" CodigoA2="LT" CodigoA3="LTU" Codigo="440" />
+  <Pais Nombre="Luxemburgo" NombreISO="Luxemburgo" CodigoA2="LU" CodigoA3="LUX" Codigo="442" />
+  <Pais Nombre="Macao" NombreISO="Macao" CodigoA2="MO" CodigoA3="MAC" Codigo="446" />
+  <Pais Nombre="Macedonia" NombreISO="Macedonia (la ex República Yugoslava de)" CodigoA2="MK" CodigoA3="MKD" Codigo="807" />
+  <Pais Nombre="Madagascar" NombreISO="Madagascar" CodigoA2="MG" CodigoA3="MDG" Codigo="450" />
+  <Pais Nombre="Malasia" NombreISO="Malasia" CodigoA2="MY" CodigoA3="MYS" Codigo="458" />
+  <Pais Nombre="Malaui" NombreISO="Malawi" CodigoA2="MW" CodigoA3="MWI" Codigo="454" />
+  <Pais Nombre="Maldivas" NombreISO="Maldivas" CodigoA2="MV" CodigoA3="MDV" Codigo="462" />
+  <Pais Nombre="Malí" NombreISO="Malí" CodigoA2="ML" CodigoA3="MLI" Codigo="466" />
+  <Pais Nombre="Malta" NombreISO="Malta" CodigoA2="MT" CodigoA3="MLT" Codigo="470" />
+  <Pais Nombre="Marruecos" NombreISO="Marruecos" CodigoA2="MA" CodigoA3="MAR" Codigo="504" />
+  <Pais Nombre="Martinica" NombreISO="Martinique" CodigoA2="MQ" CodigoA3="MTQ" Codigo="474" />
+  <Pais Nombre="Mauricio" NombreISO="Mauricio" CodigoA2="MU" CodigoA3="MUS" Codigo="480" />
+  <Pais Nombre="Mauritania" NombreISO="Mauritania" CodigoA2="MR" CodigoA3="MRT" Codigo="478" />
+  <Pais Nombre="Mayotte" NombreISO="Mayotte" CodigoA2="YT" CodigoA3="MYT" Codigo="175" />
+  <Pais Nombre="México" NombreISO="México" CodigoA2="MX" CodigoA3="MEX" Codigo="484" />
+  <Pais Nombre="Micronesia" NombreISO="Micronesia (Estados Federados de)" CodigoA2="FM" CodigoA3="FSM" Codigo="583" />
+  <Pais Nombre="Moldavia" NombreISO="Moldova (la República de)" CodigoA2="MD" CodigoA3="MDA" Codigo="498" />
+  <Pais Nombre="Mónaco" NombreISO="Mónaco" CodigoA2="MC" CodigoA3="MCO" Codigo="492" />
+  <Pais Nombre="Mongolia" NombreISO="Mongolia" CodigoA2="MN" CodigoA3="MNG" Codigo="496" />
+  <Pais Nombre="Montenegro" NombreISO="Montenegro" CodigoA2="ME" CodigoA3="MNE" Codigo="499" />
+  <Pais Nombre="Montserrat" NombreISO="Montserrat" CodigoA2="MS" CodigoA3="MSR" Codigo="500" />
+  <Pais Nombre="Mozambique" NombreISO="Mozambique" CodigoA2="MZ" CodigoA3="MOZ" Codigo="508" />
+  <Pais Nombre="Myanmar" NombreISO="Myanmar" CodigoA2="MM" CodigoA3="MMR" Codigo="104" />
+  <Pais Nombre="Namibia" NombreISO="Namibia" CodigoA2="NA" CodigoA3="NAM" Codigo="516" />
+  <Pais Nombre="Nauru" NombreISO="Nauru" CodigoA2="NR" CodigoA3="NRU" Codigo="520" />
+  <Pais Nombre="Nepal" NombreISO="Nepal" CodigoA2="NP" CodigoA3="NPL" Codigo="524" />
+  <Pais Nombre="Nicaragua" NombreISO="Nicaragua" CodigoA2="NI" CodigoA3="NIC" Codigo="558" />
+  <Pais Nombre="Níger" NombreISO="Níger (el)" CodigoA2="NE" CodigoA3="NER" Codigo="562" />
+  <Pais Nombre="Nigeria" NombreISO="Nigeria" CodigoA2="NG" CodigoA3="NGA" Codigo="566" />
+  <Pais Nombre="Niue" NombreISO="Niue" CodigoA2="UN" CodigoA3="NIU" Codigo="570" />
+  <Pais Nombre="Norfolk" NombreISO="Norfolk, Isla" CodigoA2="NF" CodigoA3="NFK" Codigo="574" />
+  <Pais Nombre="Noruega" NombreISO="Noruega" CodigoA2="NO" CodigoA3="NOR" Codigo="578" />
+  <Pais Nombre="Nueva Caledonia" NombreISO="Nueva Caledonia" CodigoA2="NC" CodigoA3="NCL" Codigo="540" />
+  <Pais Nombre="Nueva Zelanda" NombreISO="Nueva Zelandia" CodigoA2="NZ" CodigoA3="NZL" Codigo="554" />
+  <Pais Nombre="Omán" NombreISO="Omán" CodigoA2="OM" CodigoA3="OMN" Codigo="512" />
+  <Pais Nombre="Países Bajos" NombreISO="Países Bajos (los)" CodigoA2="NL" CodigoA3="NLD" Codigo="528" />
+  <Pais Nombre="Pakistán" NombreISO="Pakistán" CodigoA2="PK" CodigoA3="PAK" Codigo="586" />
+  <Pais Nombre="Palaos" NombreISO="Palau" CodigoA2="PW" CodigoA3="PLW" Codigo="585" />
+  <Pais Nombre="Palestina" NombreISO="Palestina, Estado de" CodigoA2="PS" CodigoA3="PSE" Codigo="275" />
+  <Pais Nombre="Panamá" NombreISO="Panamá" CodigoA2="PA" CodigoA3="PAN" Codigo="591" />
+  <Pais Nombre="Papúa Nueva Guinea" NombreISO="Papua Nueva Guinea" CodigoA2="PG" CodigoA3="PNG" Codigo="598" />
+  <Pais Nombre="Paraguay" NombreISO="Paraguay" CodigoA2="PY" CodigoA3="PRY" Codigo="600" />
+  <Pais Nombre="Perú" NombreISO="Perú" CodigoA2="PE" CodigoA3="PER" Codigo="604" />
+  <Pais Nombre="Polinesia Francesa" NombreISO="Polinesia Francesa" CodigoA2="PF" CodigoA3="PYF" Codigo="258" />
+  <Pais Nombre="Polonia" NombreISO="Polonia" CodigoA2="PL" CodigoA3="POL" Codigo="616" />
+  <Pais Nombre="Portugal" NombreISO="Portugal" CodigoA2="PT" CodigoA3="PRT" Codigo="620" />
+  <Pais Nombre="Puerto Rico" NombreISO="Puerto Rico" CodigoA2="PR" CodigoA3="PRI" Codigo="630" />
+  <Pais Nombre="Reino Unido" NombreISO="Reino Unido de Gran Bretaña e Irlanda del Norte (el)" CodigoA2="GB" CodigoA3="GBR" Codigo="826" />
+  <Pais Nombre="República Árabe Saharaui Democrática" NombreISO="Sahara Occidental" CodigoA2="EH" CodigoA3="ESH" Codigo="732" />
+  <Pais Nombre="República Centroafricana" NombreISO="República Centroafricana (la)" CodigoA2="CF" CodigoA3="CAF" Codigo="140" />
+  <Pais Nombre="República Checa" NombreISO="Chequia" CodigoA2="CZ" CodigoA3="CZE" Codigo="203" />
+  <Pais Nombre="República del Congo" NombreISO="Congo (el)" CodigoA2="CG" CodigoA3="COG" Codigo="178" />
+  <Pais Nombre="República Democrática del Congo" NombreISO="Congo (la República Democrática del)" CodigoA2="CD" CodigoA3="COD" Codigo="180" />
+  <Pais Nombre="República Dominicana" NombreISO="Dominicana, (la) República" CodigoA2="DO" CodigoA3="DOM" Codigo="214" />
+  <Pais Nombre="Reunión" NombreISO="Reunión" CodigoA2="RE" CodigoA3="REU" Codigo="638" />
+  <Pais Nombre="Ruanda" NombreISO="Rwanda" CodigoA2="RW" CodigoA3="RWA" Codigo="646" />
+  <Pais Nombre="Rumania" NombreISO="Rumania" CodigoA2="RO" CodigoA3="ROU" Codigo="642" />
+  <Pais Nombre="Rusia" NombreISO="Rusia, (la) Federación de" CodigoA2="RU" CodigoA3="RUS" Codigo="643" />
+  <Pais Nombre="Samoa" NombreISO="Samoa" CodigoA2="WS" CodigoA3="WSM" Codigo="882" />
+  <Pais Nombre="Samoa Americana" NombreISO="Samoa Americana" CodigoA2="AS" CodigoA3="ASM" Codigo="016" />
+  <Pais Nombre="San Bartolomé" NombreISO="Saint Barthélemy" CodigoA2="BL" CodigoA3="BLM" Codigo="652" />
+  <Pais Nombre="San Cristóbal y Nieves" NombreISO="Saint Kitts y Nevis" CodigoA2="KN" CodigoA3="KNA" Codigo="659" />
+  <Pais Nombre="San Marino" NombreISO="San Marino" CodigoA2="SM" CodigoA3="SMR" Codigo="674" />
+  <Pais Nombre="San Martín" NombreISO="Saint Martin (parte francesa)" CodigoA2="MF" CodigoA3="MAF" Codigo="663" />
+  <Pais Nombre="San Pedro y Miquelón" NombreISO="San Pedro y Miquelón" CodigoA2="PM" CodigoA3="SPM" Codigo="666" />
+  <Pais Nombre="San Vicente y las Granadinas" NombreISO="San Vicente y las Granadinas" CodigoA2="VC" CodigoA3="VCT" Codigo="670" />
+  <Pais Nombre="Santa Elena, Ascensión y Tristán de Acuña" NombreISO="Santa Helena,  Ascensión y Tristán de Acuña" CodigoA2="SH" CodigoA3="SHN" Codigo="654" />
+  <Pais Nombre="Santa Lucía" NombreISO="Santa Lucía" CodigoA2="LC" CodigoA3="LCA" Codigo="662" />
+  <Pais Nombre="Santo Tomé y Príncipe" NombreISO="Santo Tomé y Príncipe" CodigoA2="ST" CodigoA3="STP" Codigo="678" />
+  <Pais Nombre="Senegal" NombreISO="Senegal" CodigoA2="SN" CodigoA3="SEN" Codigo="686" />
+  <Pais Nombre="Serbia" NombreISO="Serbia" CodigoA2="RS" CodigoA3="SRB" Codigo="688" />
+  <Pais Nombre="Seychelles" NombreISO="Seychelles" CodigoA2="SC" CodigoA3="SYC" Codigo="690" />
+  <Pais Nombre="Sierra Leona" NombreISO="Sierra leona" CodigoA2="SL" CodigoA3="SLE" Codigo="694" />
+  <Pais Nombre="Singapur" NombreISO="Singapur" CodigoA2="SG" CodigoA3="SGP" Codigo="702" />
+  <Pais Nombre="Sint Maarten" NombreISO="Sint Maarten (parte neerlandesa)" CodigoA2="SX" CodigoA3="SXM" Codigo="534" />
+  <Pais Nombre="Siria" NombreISO="República Árabe Siria" CodigoA2="SY" CodigoA3="SYR" Codigo="760" />
+  <Pais Nombre="Somalia" NombreISO="Somalia" CodigoA2="SO" CodigoA3="SOM" Codigo="706" />
+  <Pais Nombre="Sri Lanka" NombreISO="Sri Lanka" CodigoA2="LK" CodigoA3="LKA" Codigo="144" />
+  <Pais Nombre="Suazilandia" NombreISO="Swazilandia" CodigoA2="SZ" CodigoA3="SWZ" Codigo="748" />
+  <Pais Nombre="Sudáfrica" NombreISO="Sudáfrica" CodigoA2="ZA" CodigoA3="ZAF" Codigo="710" />
+  <Pais Nombre="Sudán" NombreISO="Sudán (el)" CodigoA2="SD" CodigoA3="SDN" Codigo="729" />
+  <Pais Nombre="Sudán del Sur" NombreISO="Sudán del Sur" CodigoA2="SS" CodigoA3="SSD" Codigo="728" />
+  <Pais Nombre="Suecia" NombreISO="Suecia" CodigoA2="SE" CodigoA3="SWE" Codigo="752" />
+  <Pais Nombre="Suiza" NombreISO="Suiza" CodigoA2="CH" CodigoA3="CHE" Codigo="756" />
+  <Pais Nombre="Surinam" NombreISO="Suriname" CodigoA2="SR" CodigoA3="SUR" Codigo="740" />
+  <Pais Nombre="Svalbard y Jan Mayen" NombreISO="Svalbard y Jan Mayen" CodigoA2="SJ" CodigoA3="SJM" Codigo="744" />
+  <Pais Nombre="Tailandia" NombreISO="Tailandia" CodigoA2="TH" CodigoA3="THA" Codigo="764" />
+  <Pais Nombre="Taiwán (República de China)" NombreISO="Taiwán (Provincia de China)" CodigoA2="TW" CodigoA3="TWN" Codigo="158" />
+  <Pais Nombre="Tanzania" NombreISO="Tanzania, República Unida de" CodigoA2="TZ" CodigoA3="TZA" Codigo="834" />
+  <Pais Nombre="Tayikistán" NombreISO="Tayikistán" CodigoA2="TJ" CodigoA3="TJK" Codigo="762" />
+  <Pais Nombre="Territorio Británico del Océano Índico" NombreISO="Territorio Británico del Océano Índico (el)" CodigoA2="IO" CodigoA3="IOT" Codigo="086" />
+  <Pais Nombre="Tierras Australes y Antárticas Francesas" NombreISO="Tierras Australes Francesas (las)" CodigoA2="TF" CodigoA3="ATF" Codigo="260" />
+  <Pais Nombre="Timor Oriental" NombreISO="Timor-Leste" CodigoA2="TL" CodigoA3="TLS" Codigo="626" />
+  <Pais Nombre="Togo" NombreISO="Togo" CodigoA2="TG" CodigoA3="TGO" Codigo="768" />
+  <Pais Nombre="Tokelau" NombreISO="Tokelau" CodigoA2="TK" CodigoA3="TKL" Codigo="772" />
+  <Pais Nombre="Tonga" NombreISO="Tonga" CodigoA2="TO" CodigoA3="TON" Codigo="776" />
+  <Pais Nombre="Trinidad y Tobago" NombreISO="Trinidad y Tobago" CodigoA2="TT" CodigoA3="TTO" Codigo="780" />
+  <Pais Nombre="Túnez" NombreISO="Túnez" CodigoA2="TN" CodigoA3="TUN" Codigo="788" />
+  <Pais Nombre="Turkmenistán" NombreISO="Turkmenistán" CodigoA2="TM" CodigoA3="TKM" Codigo="795" />
+  <Pais Nombre="Turquía" NombreISO="Turquía" CodigoA2="TR" CodigoA3="TUR" Codigo="792" />
+  <Pais Nombre="Tuvalu" NombreISO="Tuvalu" CodigoA2="TV" CodigoA3="TUV" Codigo="798" />
+  <Pais Nombre="Ucrania" NombreISO="Ucrania" CodigoA2="UA" CodigoA3="UKR" Codigo="804" />
+  <Pais Nombre="Uganda" NombreISO="Uganda" CodigoA2="UG" CodigoA3="UGA" Codigo="800" />
+  <Pais Nombre="Uruguay" NombreISO="Uruguay" CodigoA2="UY" CodigoA3="URY" Codigo="858" />
+  <Pais Nombre="Uzbekistán" NombreISO="Uzbekistán" CodigoA2="UZ" CodigoA3="UZB" Codigo="860" />
+  <Pais Nombre="Vanuatu" NombreISO="Vanuatu" CodigoA2="VU" CodigoA3="VUT" Codigo="548" />
+  <Pais Nombre="Vaticano, Ciudad del" NombreISO="Santa Sede (la)" CodigoA2="VA" CodigoA3="VAT" Codigo="336" />
+  <Pais Nombre="Venezuela" NombreISO="Venezuela (República Bolivariana de)" CodigoA2="VE" CodigoA3="VEN" Codigo="862" />
+  <Pais Nombre="Vietnam" NombreISO="Viet Nam" CodigoA2="VN" CodigoA3="VNM" Codigo="704" />
+  <Pais Nombre="Wallis y Futuna" NombreISO="Wallis y Futuna" CodigoA2="WF" CodigoA3="WLF" Codigo="876" />
+  <Pais Nombre="Yemen" NombreISO="Yemen" CodigoA2="YE" CodigoA3="YEM" Codigo="887" />
+  <Pais Nombre="Yibuti" NombreISO="Djibouti" CodigoA2="DJ" CodigoA3="DJI" Codigo="262" />
+  <Pais Nombre="Zambia" NombreISO="Zambia" CodigoA2="ZM" CodigoA3="ZMB" Codigo="894" />
+  <Pais Nombre="Zimbabue" NombreISO="Zimbabwe" CodigoA2="ZW" CodigoA3="ZWE" Codigo="716" />
+</Paises>

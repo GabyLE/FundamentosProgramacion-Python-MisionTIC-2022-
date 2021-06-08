@@ -1,0 +1,1126 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Municipios>
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05001" Nombre="MEDELLÍN" />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05002" Nombre="ABEJORRAL" />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05004" Nombre="ABRIAQUÍ" />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05021" Nombre="ALEJANDRÍA" />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05030" Nombre="AMAGÁ" />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05031" Nombre="AMALFI" />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05034" Nombre="ANDES" />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05036" Nombre="ANGELÓPOLIS" />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05038" Nombre="ANGOSTURA" />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05040" Nombre="ANORÍ" />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05042" Nombre="SANTA FÉ DE ANTIOQUIA" />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05044" Nombre="ANZÁ" />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05045" Nombre="APARTADÓ" />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05051" Nombre="ARBOLETES" />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05055" Nombre="ARGELIA " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05059" Nombre="ARMENIA " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05079" Nombre="BARBOSA " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05086" Nombre="BELMIRA " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05088" Nombre="BELLO " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05091" Nombre="BETANIA " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05093" Nombre="BETULIA " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05101" Nombre="CIUDAD BOLÍVAR " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05107" Nombre="BRICEÑO " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05113" Nombre="BURITICÁ " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05120" Nombre="CÁCERES" />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05125" Nombre="CAICEDO" />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05129" Nombre="CALDAS" />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05134" Nombre="CAMPAMENTO" />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05138" Nombre="CAÑASGORDAS" />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05142" Nombre="CARACOLÍ" />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05145" Nombre="CARAMANTA" />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05147" Nombre="CAREPA" />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05148" Nombre="EL CARMEN DE VIBORAL" />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05150" Nombre="CAROLINA" />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05154" Nombre="CAUCASIA" />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05172" Nombre="CHIGORODÓ" />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05190" Nombre="CISNEROS" />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05197" Nombre="COCORNÁ" />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05206" Nombre="CONCEPCIÓN" />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05209" Nombre="CONCORDIA" />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05212" Nombre="COPACABANA" />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05234" Nombre="DABEIBA" />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05237" Nombre="DONMATÍAS" />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05240" Nombre="EBÉJICO" />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05250" Nombre="EL BAGRE " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05264" Nombre="ENTRERRÍOS " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05266" Nombre="ENVIGADO " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05282" Nombre="FREDONIA " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05284" Nombre="FRONTINO " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05306" Nombre="GIRALDO " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05308" Nombre="GIRARDOTA " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05310" Nombre="GÓMEZ PLATA " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05313" Nombre="GRANADA " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05315" Nombre="GUADALUPE " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05318" Nombre="GUARNE " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05321" Nombre="GUATAPÉ " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05347" Nombre="HELICONIA " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05353" Nombre="HISPANIA " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05360" Nombre="ITAGÜÍ " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05361" Nombre="ITUANGO " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05364" Nombre="JARDÍN " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05368" Nombre="JERICÓ " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05376" Nombre="LA CEJA " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05380" Nombre="LA ESTRELLA " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05390" Nombre="LA PINTADA " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05400" Nombre="LA UNIÓN " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05411" Nombre="LIBORINA " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05425" Nombre="MACEO " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05440" Nombre="MARINILLA " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05467" Nombre="MONTEBELLO " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05475" Nombre="MURINDÓ " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05480" Nombre="MUTATÁ " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05483" Nombre="NARIÑO " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05490" Nombre="NECOCLÍ " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05495" Nombre="NECHÍ " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05501" Nombre="OLAYA " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05541" Nombre="PEÑOL " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05543" Nombre="PEQUE " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05576" Nombre="PUEBLORRICO " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05579" Nombre="PUERTO BERRÍO " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05585" Nombre="PUERTO NARE " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05591" Nombre="PUERTO TRIUNFO " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05604" Nombre="REMEDIOS " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05607" Nombre="RETIRO " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05615" Nombre="RIONEGRO " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05628" Nombre="SABANALARGA " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05631" Nombre="SABANETA " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05642" Nombre="SALGAR " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05647" Nombre="SAN ANDRÉS DE CUERQUÍA " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05649" Nombre="SAN CARLOS " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05652" Nombre="SAN FRANCISCO " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05656" Nombre="SAN JERÓNIMO " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05658" Nombre="SAN JOSÉ DE LA MONTAÑA " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05659" Nombre="SAN JUAN DE URABÁ " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05660" Nombre="SAN LUIS " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05664" Nombre="SAN PEDRO DE LOS MILAGROS " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05665" Nombre="SAN PEDRO DE URABÁ " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05667" Nombre="SAN RAFAEL " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05670" Nombre="SAN ROQUE " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05674" Nombre="SAN VICENTE FERRER " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05679" Nombre="SANTA BÁRBARA " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05686" Nombre="SANTA ROSA DE OSOS " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05690" Nombre="SANTO DOMINGO " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05697" Nombre="EL SANTUARIO " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05736" Nombre="SEGOVIA " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05756" Nombre="SONSÓN " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05761" Nombre="SOPETRÁN " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05789" Nombre="TÁMESIS " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05790" Nombre="TARAZÁ " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05792" Nombre="TARSO " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05809" Nombre="TITIRIBÍ " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05819" Nombre="TOLEDO " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05837" Nombre="TURBO " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05842" Nombre="URAMITA " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05847" Nombre="URRAO " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05854" Nombre="VALDIVIA " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05856" Nombre="VALPARAÍSO " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05858" Nombre="VEGACHÍ " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05861" Nombre="VENECIA " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05861" Nombre="VENECIA " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05873" Nombre="VIGÍA DEL FUERTE " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05885" Nombre="YALÍ " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05887" Nombre="YARUMAL " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05890" Nombre="YOLOMBÓ " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05893" Nombre="YONDÓ " />
+  <Municipio CodigoDepartamento="05" CodigoMunicipio="05895" Nombre="ZARAGOZA " />
+  <Municipio CodigoDepartamento="08" CodigoMunicipio="08001" Nombre="BARRANQUILLA " />
+  <Municipio CodigoDepartamento="08" CodigoMunicipio="08078" Nombre="BARANOA " />
+  <Municipio CodigoDepartamento="08" CodigoMunicipio="08137" Nombre="CAMPO DE LA CRUZ " />
+  <Municipio CodigoDepartamento="08" CodigoMunicipio="08141" Nombre="CANDELARIA " />
+  <Municipio CodigoDepartamento="08" CodigoMunicipio="08296" Nombre="GALAPA " />
+  <Municipio CodigoDepartamento="08" CodigoMunicipio="08372" Nombre="JUAN DE ACOSTA " />
+  <Municipio CodigoDepartamento="08" CodigoMunicipio="08421" Nombre="LURUACO " />
+  <Municipio CodigoDepartamento="08" CodigoMunicipio="08433" Nombre="MALAMBO " />
+  <Municipio CodigoDepartamento="08" CodigoMunicipio="08436" Nombre="MANATÍ " />
+  <Municipio CodigoDepartamento="08" CodigoMunicipio="08520" Nombre="PALMAR DE VARELA " />
+  <Municipio CodigoDepartamento="08" CodigoMunicipio="08549" Nombre="PIOJÓ " />
+  <Municipio CodigoDepartamento="08" CodigoMunicipio="08558" Nombre="POLONUEVO " />
+  <Municipio CodigoDepartamento="08" CodigoMunicipio="08560" Nombre="PONEDERA " />
+  <Municipio CodigoDepartamento="08" CodigoMunicipio="08573" Nombre="PUERTO COLOMBIA " />
+  <Municipio CodigoDepartamento="08" CodigoMunicipio="08606" Nombre="REPELÓN " />
+  <Municipio CodigoDepartamento="08" CodigoMunicipio="08634" Nombre="SABANAGRANDE " />
+  <Municipio CodigoDepartamento="08" CodigoMunicipio="08638" Nombre="SABANALARGA " />
+  <Municipio CodigoDepartamento="08" CodigoMunicipio="08675" Nombre="SANTA LUCÍA " />
+  <Municipio CodigoDepartamento="08" CodigoMunicipio="08685" Nombre="SANTO TOMÁS " />
+  <Municipio CodigoDepartamento="08" CodigoMunicipio="08758" Nombre="SOLEDAD " />
+  <Municipio CodigoDepartamento="08" CodigoMunicipio="08770" Nombre="SUAN " />
+  <Municipio CodigoDepartamento="08" CodigoMunicipio="08832" Nombre="TUBARÁ " />
+  <Municipio CodigoDepartamento="08" CodigoMunicipio="08849" Nombre="USIACURÍ " />
+  <Municipio CodigoDepartamento="11" CodigoMunicipio="11001" Nombre="BOGOTÁ, D.C. " />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13001" Nombre="CARTAGENA DE INDIAS " />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13006" Nombre="ACHÍ " />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13030" Nombre="ALTOS DEL ROSARIO " />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13042" Nombre="ARENAL " />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13052" Nombre="ARJONA " />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13062" Nombre="ARROYOHONDO " />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13074" Nombre="BARRANCO DE LOBA " />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13140" Nombre="CALAMAR " />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13160" Nombre="CANTAGALLO " />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13188" Nombre="CICUCO " />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13212" Nombre="CÓRDOBA " />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13222" Nombre="CLEMENCIA " />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13244" Nombre="EL CARMEN DE" />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13248" Nombre="EL GUAMO " />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13268" Nombre="EL PEÑÓN " />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13300" Nombre="HATILLO DE LOBA " />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13430" Nombre="MAGANGUÉ " />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13433" Nombre="MAHATES " />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13440" Nombre="MARGARITA " />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13442" Nombre="MARÍA LA BAJA " />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13458" Nombre="MONTECRISTO " />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13468" Nombre="MOMPÓS " />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13473" Nombre="MORALES " />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13490" Nombre="NOROSÍ " />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13549" Nombre="PINILLOS " />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13580" Nombre="REGIDOR " />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13600" Nombre="RÍO VIEJO " />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13620" Nombre="SAN CRISTÓBAL " />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13647" Nombre="SAN ESTANISLAO " />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13650" Nombre="SAN FERNANDO " />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13654" Nombre="SAN JACINTO " />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13655" Nombre="SAN JACINTO DEL CAUCA " />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13657" Nombre="SAN JUAN NEPOMUCENO " />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13667" Nombre="SAN MARTÍN DE LOBA " />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13670" Nombre="SAN PABLO SUR " />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13673" Nombre="SANTA CATALINA " />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13683" Nombre="SANTA ROSA DE LIMA " />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13688" Nombre="SANTA ROSA DEL SUR " />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13744" Nombre="SIMITÍ " />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13760" Nombre="SOPLAVIENTO " />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13780" Nombre="TALAIGUA NUEVO " />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13810" Nombre="TIQUISIO " />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13836" Nombre="TURBACO " />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13838" Nombre="TURBANÁ " />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13873" Nombre="VILLANUEVA " />
+  <Municipio CodigoDepartamento="13" CodigoMunicipio="13894" Nombre="ZAMBRANO " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15001" Nombre="TUNJA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15022" Nombre="ALMEIDA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15047" Nombre="AQUITANIA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15051" Nombre="ARCABUCO " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15087" Nombre="BELÉN " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15090" Nombre="BERBEO " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15092" Nombre="BETÉITIVA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15097" Nombre="BOAVITA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15104" Nombre="BOYACÁ " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15106" Nombre="BRICEÑO " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15109" Nombre="BUENAVISTA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15114" Nombre="BUSBANZÁ " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15131" Nombre="CALDAS " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15135" Nombre="CAMPOHERMOSO " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15162" Nombre="CERINZA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15172" Nombre="CHINAVITA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15176" Nombre="CHIQUINQUIRÁ " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15180" Nombre="CHISCAS " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15183" Nombre="CHITA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15185" Nombre="CHITARAQUE " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15187" Nombre="CHIVATÁ " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15189" Nombre="CIÉNEGA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15204" Nombre="CÓMBITA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15212" Nombre="COPER " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15215" Nombre="CORRALES " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15218" Nombre="COVARACHÍA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15223" Nombre="CUBARÁ " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15224" Nombre="CUCAITA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15226" Nombre="CUÍTIVA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15232" Nombre="CHÍQUIZA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15236" Nombre="CHIVOR " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15238" Nombre="DUITAMA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15244" Nombre="EL COCUY " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15248" Nombre="EL ESPINO " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15272" Nombre="FIRAVITOBA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15276" Nombre="FLORESTA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15293" Nombre="GACHANTIVÁ " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15296" Nombre="GÁMEZA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15299" Nombre="GARAGOA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15317" Nombre="GUACAMAYAS " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15322" Nombre="GUATEQUE " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15325" Nombre="GUAYATÁ " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15332" Nombre="GÜICÁN DE LA SIERRA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15362" Nombre="IZA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15367" Nombre="JENESANO " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15368" Nombre="JERICÓ " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15377" Nombre="LABRANZAGRANDE " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15380" Nombre="LA CAPILLA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15401" Nombre="LA VICTORIA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15403" Nombre="LA UVITA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15407" Nombre="VILLA DE LEYVA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15425" Nombre="MACANAL " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15442" Nombre="MARIPÍ " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15455" Nombre="MIRAFLORES " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15464" Nombre="MONGUA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15466" Nombre="MONGUÍ " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15469" Nombre="MONIQUIRÁ " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15476" Nombre="MOTAVITA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15480" Nombre="MUZO " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15491" Nombre="NOBSA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15494" Nombre="NUEVO COLÓN " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15500" Nombre="OICATÁ " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15507" Nombre="OTANCHE " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15511" Nombre="PACHAVITA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15514" Nombre="PÁEZ " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15516" Nombre="PAIPA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15518" Nombre="PAJARITO " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15522" Nombre="PANQUEBA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15531" Nombre="PAUNA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15533" Nombre="PAYA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15537" Nombre="PAZ DE RÍO " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15542" Nombre="PESCA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15550" Nombre="PISBA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15572" Nombre="PUERTO" />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15580" Nombre="QUÍPAMA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15599" Nombre="RAMIRIQUÍ " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15600" Nombre="RÁQUIRA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15621" Nombre="RONDÓN " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15632" Nombre="SABOYÁ " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15638" Nombre="SÁCHICA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15646" Nombre="SAMACÁ " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15660" Nombre="SAN EDUARDO " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15664" Nombre="SAN JOSÉ DE PARE " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15667" Nombre="SAN LUIS DE GACENO " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15673" Nombre="SAN MATEO " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15676" Nombre="SAN MIGUEL DE SEMA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15681" Nombre="SAN PABLO DE BORBUR" />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15686" Nombre="SANTANA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15690" Nombre="SANTA MARÍA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15693" Nombre="SANTA ROSA DE VITERBO " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15696" Nombre="SANTA SOFÍA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15720" Nombre="SATIVANORTE " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15723" Nombre="SATIVASUR " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15740" Nombre="SIACHOQUE " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15753" Nombre="SOATÁ " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15755" Nombre="SOCOTÁ " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15757" Nombre="SOCHA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15759" Nombre="SOGAMOSO " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15761" Nombre="SOMONDOCO " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15762" Nombre="SORA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15763" Nombre="SOTAQUIRÁ " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15764" Nombre="SORACÁ " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15774" Nombre="SUSACÓN " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15776" Nombre="SUTAMARCHÁN " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15778" Nombre="SUTATENZA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15790" Nombre="TASCO " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15798" Nombre="TENZA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15804" Nombre="TIBANÁ " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15806" Nombre="TIBASOSA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15808" Nombre="TINJACÁ " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15810" Nombre="TIPACOQUE " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15814" Nombre="TOCA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15816" Nombre="TOGÜÍ " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15820" Nombre="TÓPAGA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15822" Nombre="TOTA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15832" Nombre="TUNUNGUÁ " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15835" Nombre="TURMEQUÉ " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15837" Nombre="TUTA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15839" Nombre="TUTAZÁ " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15842" Nombre="ÚMBITA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15861" Nombre="VENTAQUEMADA " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15879" Nombre="VIRACACHÁ " />
+  <Municipio CodigoDepartamento="15" CodigoMunicipio="15897" Nombre="ZETAQUIRA " />
+  <Municipio CodigoDepartamento="17" CodigoMunicipio="17001" Nombre="MANIZALES " />
+  <Municipio CodigoDepartamento="17" CodigoMunicipio="17013" Nombre="AGUADAS " />
+  <Municipio CodigoDepartamento="17" CodigoMunicipio="17042" Nombre="ANSERMA " />
+  <Municipio CodigoDepartamento="17" CodigoMunicipio="17050" Nombre="ARANZAZU " />
+  <Municipio CodigoDepartamento="17" CodigoMunicipio="17088" Nombre="BELALCÁZAR " />
+  <Municipio CodigoDepartamento="17" CodigoMunicipio="17174" Nombre="CHINCHINÁ " />
+  <Municipio CodigoDepartamento="17" CodigoMunicipio="17272" Nombre="FILADELFIA " />
+  <Municipio CodigoDepartamento="17" CodigoMunicipio="17380" Nombre="LA DORADA " />
+  <Municipio CodigoDepartamento="17" CodigoMunicipio="17388" Nombre="LA MERCED " />
+  <Municipio CodigoDepartamento="17" CodigoMunicipio="17433" Nombre="MANZANARES " />
+  <Municipio CodigoDepartamento="17" CodigoMunicipio="17442" Nombre="MARMATO " />
+  <Municipio CodigoDepartamento="17" CodigoMunicipio="17444" Nombre="MARQUETALIA " />
+  <Municipio CodigoDepartamento="17" CodigoMunicipio="17446" Nombre="MARULANDA " />
+  <Municipio CodigoDepartamento="17" CodigoMunicipio="17486" Nombre="NEIRA " />
+  <Municipio CodigoDepartamento="17" CodigoMunicipio="17495" Nombre="NORCASIA " />
+  <Municipio CodigoDepartamento="17" CodigoMunicipio="17513" Nombre="PÁCORA " />
+  <Municipio CodigoDepartamento="17" CodigoMunicipio="17524" Nombre="PALESTINA " />
+  <Municipio CodigoDepartamento="17" CodigoMunicipio="17541" Nombre="PENSILVANIA " />
+  <Municipio CodigoDepartamento="17" CodigoMunicipio="17614" Nombre="RIOSUCIO " />
+  <Municipio CodigoDepartamento="17" CodigoMunicipio="17616" Nombre="Risaralda" />
+  <Municipio CodigoDepartamento="17" CodigoMunicipio="17653" Nombre="SALAMINA " />
+  <Municipio CodigoDepartamento="17" CodigoMunicipio="17662" Nombre="SAMANÁ " />
+  <Municipio CodigoDepartamento="17" CodigoMunicipio="17665" Nombre="SAN JOSÉ " />
+  <Municipio CodigoDepartamento="17" CodigoMunicipio="17777" Nombre="SUPÍA " />
+  <Municipio CodigoDepartamento="17" CodigoMunicipio="17867" Nombre="VICTORIA " />
+  <Municipio CodigoDepartamento="17" CodigoMunicipio="17873" Nombre="VILLAMARÍA " />
+  <Municipio CodigoDepartamento="17" CodigoMunicipio="17877" Nombre="VITERBO " />
+  <Municipio CodigoDepartamento="18" CodigoMunicipio="18001" Nombre="FLORENCIA " />
+  <Municipio CodigoDepartamento="18" CodigoMunicipio="18029" Nombre="ALBANIA " />
+  <Municipio CodigoDepartamento="18" CodigoMunicipio="18094" Nombre="BELÉN DE LOS ANDAQUÍES " />
+  <Municipio CodigoDepartamento="18" CodigoMunicipio="18150" Nombre="CARTAGENA DEL CHAIRÁ " />
+  <Municipio CodigoDepartamento="18" CodigoMunicipio="18205" Nombre="CURILLO " />
+  <Municipio CodigoDepartamento="18" CodigoMunicipio="18247" Nombre="EL DONCELLO " />
+  <Municipio CodigoDepartamento="18" CodigoMunicipio="18256" Nombre="EL PAUJÍL " />
+  <Municipio CodigoDepartamento="18" CodigoMunicipio="18410" Nombre="LA MONTAÑITA " />
+  <Municipio CodigoDepartamento="18" CodigoMunicipio="18460" Nombre="MILÁN " />
+  <Municipio CodigoDepartamento="18" CodigoMunicipio="18479" Nombre="MORELIA " />
+  <Municipio CodigoDepartamento="18" CodigoMunicipio="18592" Nombre="PUERTO RICO " />
+  <Municipio CodigoDepartamento="18" CodigoMunicipio="18610" Nombre="SAN JOSÉ DEL FRAGUA " />
+  <Municipio CodigoDepartamento="18" CodigoMunicipio="18753" Nombre="SAN VICENTE DEL CAGUÁN " />
+  <Municipio CodigoDepartamento="18" CodigoMunicipio="18756" Nombre="SOLANO " />
+  <Municipio CodigoDepartamento="18" CodigoMunicipio="18785" Nombre="SOLITA " />
+  <Municipio CodigoDepartamento="18" CodigoMunicipio="18860" Nombre="VALPARAÍSO " />
+  <Municipio CodigoDepartamento="19" CodigoMunicipio="19001" Nombre="POPAYÁN " />
+  <Municipio CodigoDepartamento="19" CodigoMunicipio="19022" Nombre="ALMAGUER " />
+  <Municipio CodigoDepartamento="19" CodigoMunicipio="19050" Nombre="ARGELIA " />
+  <Municipio CodigoDepartamento="19" CodigoMunicipio="19075" Nombre="BALBOA " />
+  <Municipio CodigoDepartamento="19" CodigoMunicipio="19100" Nombre="Bolívar" />
+  <Municipio CodigoDepartamento="19" CodigoMunicipio="19110" Nombre="BUENOS AIRES " />
+  <Municipio CodigoDepartamento="19" CodigoMunicipio="19130" Nombre="CAJIBÍO " />
+  <Municipio CodigoDepartamento="19" CodigoMunicipio="19137" Nombre="CALDONO " />
+  <Municipio CodigoDepartamento="19" CodigoMunicipio="19142" Nombre="CALOTO " />
+  <Municipio CodigoDepartamento="19" CodigoMunicipio="19212" Nombre="CORINTO " />
+  <Municipio CodigoDepartamento="19" CodigoMunicipio="19256" Nombre="EL TAMBO " />
+  <Municipio CodigoDepartamento="19" CodigoMunicipio="19290" Nombre="FLORENCIA " />
+  <Municipio CodigoDepartamento="19" CodigoMunicipio="19300" Nombre="GUACHENÉ " />
+  <Municipio CodigoDepartamento="19" CodigoMunicipio="19318" Nombre="GUAPÍ " />
+  <Municipio CodigoDepartamento="19" CodigoMunicipio="19355" Nombre="INZÁ " />
+  <Municipio CodigoDepartamento="19" CodigoMunicipio="19364" Nombre="JAMBALÓ " />
+  <Municipio CodigoDepartamento="19" CodigoMunicipio="19392" Nombre="LA SIERRA " />
+  <Municipio CodigoDepartamento="19" CodigoMunicipio="19397" Nombre="LA VEGA " />
+  <Municipio CodigoDepartamento="19" CodigoMunicipio="19418" Nombre="LÓPEZ DE MICAY " />
+  <Municipio CodigoDepartamento="19" CodigoMunicipio="19450" Nombre="MERCADERES " />
+  <Municipio CodigoDepartamento="19" CodigoMunicipio="19455" Nombre="MIRANDA " />
+  <Municipio CodigoDepartamento="19" CodigoMunicipio="19473" Nombre="MORALES " />
+  <Municipio CodigoDepartamento="19" CodigoMunicipio="19513" Nombre="PADILLA " />
+  <Municipio CodigoDepartamento="19" CodigoMunicipio="19517" Nombre="PÁEZ - BELALCAZAR " />
+  <Municipio CodigoDepartamento="19" CodigoMunicipio="19532" Nombre="PATÍA – EL BORDO " />
+  <Municipio CodigoDepartamento="19" CodigoMunicipio="19533" Nombre="PIAMONTE " />
+  <Municipio CodigoDepartamento="19" CodigoMunicipio="19548" Nombre="PIENDAMÓ – TUNÍA " />
+  <Municipio CodigoDepartamento="19" CodigoMunicipio="19573" Nombre="PUERTO TEJADA " />
+  <Municipio CodigoDepartamento="19" CodigoMunicipio="19585" Nombre="PURACÉ - COCONUCO " />
+  <Municipio CodigoDepartamento="19" CodigoMunicipio="19622" Nombre="ROSAS " />
+  <Municipio CodigoDepartamento="19" CodigoMunicipio="19693" Nombre="SAN SEBASTIÁN " />
+  <Municipio CodigoDepartamento="19" CodigoMunicipio="19698 Cauca" Nombre="DE QUILICHAO " />
+  <Municipio CodigoDepartamento="19" CodigoMunicipio="19701" Nombre="SANTA ROSA " />
+  <Municipio CodigoDepartamento="19" CodigoMunicipio="19743" Nombre="SILVIA " />
+  <Municipio CodigoDepartamento="19" CodigoMunicipio="19760" Nombre="SOTARA " />
+  <Municipio CodigoDepartamento="19" CodigoMunicipio="19780" Nombre="SUÁREZ " />
+  <Municipio CodigoDepartamento="19" CodigoMunicipio="19785" Nombre="SUCRE " />
+  <Municipio CodigoDepartamento="19" CodigoMunicipio="19807" Nombre="TIMBÍO " />
+  <Municipio CodigoDepartamento="19" CodigoMunicipio="19809" Nombre="TIMBIQUÍ " />
+  <Municipio CodigoDepartamento="19" CodigoMunicipio="19821" Nombre="TORIBÍO " />
+  <Municipio CodigoDepartamento="19" CodigoMunicipio="19824" Nombre="TOTORÓ " />
+  <Municipio CodigoDepartamento="19" CodigoMunicipio="19845" Nombre="VILLA RICA " />
+  <Municipio CodigoDepartamento="20" CodigoMunicipio="20001" Nombre="VALLEDUPAR " />
+  <Municipio CodigoDepartamento="20" CodigoMunicipio="20011" Nombre="AGUACHICA " />
+  <Municipio CodigoDepartamento="20" CodigoMunicipio="20013" Nombre="AGUSTÍN CODAZZI " />
+  <Municipio CodigoDepartamento="20" CodigoMunicipio="20032" Nombre="ASTREA " />
+  <Municipio CodigoDepartamento="20" CodigoMunicipio="20045" Nombre="BECERRIL " />
+  <Municipio CodigoDepartamento="20" CodigoMunicipio="20060" Nombre="BOSCONIA " />
+  <Municipio CodigoDepartamento="20" CodigoMunicipio="20175" Nombre="CHIMICHAGUA " />
+  <Municipio CodigoDepartamento="20" CodigoMunicipio="20178" Nombre="CHIRIGUANÁ " />
+  <Municipio CodigoDepartamento="20" CodigoMunicipio="20228" Nombre="CURUMANÍ " />
+  <Municipio CodigoDepartamento="20" CodigoMunicipio="20238" Nombre="EL COPEY " />
+  <Municipio CodigoDepartamento="20" CodigoMunicipio="20250" Nombre="EL PASO " />
+  <Municipio CodigoDepartamento="20" CodigoMunicipio="20295" Nombre="GAMARRA " />
+  <Municipio CodigoDepartamento="20" CodigoMunicipio="20310" Nombre="GONZÁLEZ " />
+  <Municipio CodigoDepartamento="20" CodigoMunicipio="20383" Nombre="LA GLORIA " />
+  <Municipio CodigoDepartamento="20" CodigoMunicipio="20400" Nombre="LA JAGUA DE IBIRICO " />
+  <Municipio CodigoDepartamento="20" CodigoMunicipio="20443" Nombre="MANAURE BALCÓN DEL" />
+  <Municipio CodigoDepartamento="20" CodigoMunicipio="20517" Nombre="PAILITAS " />
+  <Municipio CodigoDepartamento="20" CodigoMunicipio="20550" Nombre="PELAYA " />
+  <Municipio CodigoDepartamento="20" CodigoMunicipio="20570" Nombre="PUEBLO BELLO " />
+  <Municipio CodigoDepartamento="20" CodigoMunicipio="20614" Nombre="RÍO DE ORO " />
+  <Municipio CodigoDepartamento="20" CodigoMunicipio="20621" Nombre="LA PAZ " />
+  <Municipio CodigoDepartamento="20" CodigoMunicipio="20710" Nombre="SAN ALBERTO " />
+  <Municipio CodigoDepartamento="20" CodigoMunicipio="20750" Nombre="SAN DIEGO " />
+  <Municipio CodigoDepartamento="20" CodigoMunicipio="20770" Nombre="SAN MARTÍN " />
+  <Municipio CodigoDepartamento="20" CodigoMunicipio="20787" Nombre="TAMALAMEQUE " />
+  <Municipio CodigoDepartamento="23" CodigoMunicipio="23001" Nombre="MONTERÍA " />
+  <Municipio CodigoDepartamento="23" CodigoMunicipio="23068" Nombre="AYAPEL " />
+  <Municipio CodigoDepartamento="23" CodigoMunicipio="23079" Nombre="BUENAVISTA " />
+  <Municipio CodigoDepartamento="23" CodigoMunicipio="23090" Nombre="CANALETE " />
+  <Municipio CodigoDepartamento="23" CodigoMunicipio="23162" Nombre="CERETÉ " />
+  <Municipio CodigoDepartamento="23" CodigoMunicipio="23168" Nombre="CHIMÁ " />
+  <Municipio CodigoDepartamento="23" CodigoMunicipio="23182" Nombre="CHINÚ " />
+  <Municipio CodigoDepartamento="23" CodigoMunicipio="23189" Nombre="CIÉNAGA DE ORO " />
+  <Municipio CodigoDepartamento="23" CodigoMunicipio="23300" Nombre="COTORRA " />
+  <Municipio CodigoDepartamento="23" CodigoMunicipio="23350" Nombre="LA APARTADA " />
+  <Municipio CodigoDepartamento="23" CodigoMunicipio="23417" Nombre="LORICA " />
+  <Municipio CodigoDepartamento="23" CodigoMunicipio="23419" Nombre="LOS CÓRDOBAS " />
+  <Municipio CodigoDepartamento="23" CodigoMunicipio="23464" Nombre="MOMIL " />
+  <Municipio CodigoDepartamento="23" CodigoMunicipio="23466" Nombre="MONTELÍBANO " />
+  <Municipio CodigoDepartamento="23" CodigoMunicipio="23500" Nombre="MOÑITOS " />
+  <Municipio CodigoDepartamento="23" CodigoMunicipio="23555" Nombre="PLANETA RICA " />
+  <Municipio CodigoDepartamento="23" CodigoMunicipio="23570" Nombre="PUEBLO NUEVO " />
+  <Municipio CodigoDepartamento="23" CodigoMunicipio="23574" Nombre="PUERTO ESCONDIDO " />
+  <Municipio CodigoDepartamento="23" CodigoMunicipio="23580" Nombre="PUERTO LIBERTADOR " />
+  <Municipio CodigoDepartamento="23" CodigoMunicipio="23586" Nombre="PURÍSIMA DE LA CONCEPCIÓN " />
+  <Municipio CodigoDepartamento="23" CodigoMunicipio="23660" Nombre="SAHAGÚN " />
+  <Municipio CodigoDepartamento="23" CodigoMunicipio="23670" Nombre="SAN ANDRÉS DE SOTAVENTO " />
+  <Municipio CodigoDepartamento="23" CodigoMunicipio="23672" Nombre="SAN ANTERO " />
+  <Municipio CodigoDepartamento="23" CodigoMunicipio="23675" Nombre="SAN BERNARDO DEL VIENTO " />
+  <Municipio CodigoDepartamento="23" CodigoMunicipio="23678" Nombre="SAN CARLOS " />
+  <Municipio CodigoDepartamento="23" CodigoMunicipio="23682" Nombre="SAN JOSÉ DE URÉ " />
+  <Municipio CodigoDepartamento="23" CodigoMunicipio="23686" Nombre="SAN PELAYO " />
+  <Municipio CodigoDepartamento="23" CodigoMunicipio="23807" Nombre="TIERRALTA " />
+  <Municipio CodigoDepartamento="23" CodigoMunicipio="23815" Nombre="TUCHÍN " />
+  <Municipio CodigoDepartamento="23" CodigoMunicipio="23855" Nombre="VALENCIA " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25839" Nombre="UBALÁ" />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25841" Nombre="UBAQUE" />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25843" Nombre="VILLA DE SAN DIEGO DE UBATÉ" />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25845" Nombre="UNE" />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25851" Nombre="ÚTICA" />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25862" Nombre="VERGARA" />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25867" Nombre="VIANÍ" />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25871" Nombre="VILLAGÓMEZ" />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25873" Nombre="VILLAPINZÓN" />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25875" Nombre="VILLETA" />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25878" Nombre="VIOTÁ" />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25885" Nombre="YACOPÍ" />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25898" Nombre="ZIPACÓN" />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25899" Nombre="ZIPAQUIRÁ" />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25001" Nombre="AGUA DE DIOS " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25019" Nombre="ALBÁN " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25035" Nombre="ANAPOIMA " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25040" Nombre="ANOLAIMA " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25053" Nombre="ARBELÁEZ " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25086" Nombre="BELTRÁN " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25095" Nombre="BITUIMA " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25099" Nombre="BOJACÁ " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25120" Nombre="CABRERA " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25123" Nombre="CACHIPAY " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25126" Nombre="CAJICÁ " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25148" Nombre="CAPARRAPÍ " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25151" Nombre="CÁQUEZA " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25154" Nombre="CARMEN DE CARUPA " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25168" Nombre="CHAGUANÍ " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25175" Nombre="CHÍA " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25178" Nombre="CHIPAQUE " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25181" Nombre="CHOACHÍ " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25183" Nombre="CHOCONTÁ " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25200" Nombre="COGUA " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25214" Nombre="COTA " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25224" Nombre="CUCUNUBÁ " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25245" Nombre="EL COLEGIO " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25258" Nombre="EL PEÑÓN " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25260" Nombre="EL ROSAL " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25269" Nombre="FACATATIVÁ " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25279" Nombre="FÓMEQUE " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25281" Nombre="FOSCA " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25286" Nombre="FUNZA " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25288" Nombre="FÚQUENE " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25290" Nombre="FUSAGASUGÁ " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25293" Nombre="GACHALÁ " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25295" Nombre="GACHANCIPÁ " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25297" Nombre="GACHETÁ " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25299" Nombre="GAMA " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25307" Nombre="GIRARDOT " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25312" Nombre="GRANADA " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25317" Nombre="GUACHETÁ " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25320" Nombre="GUADUAS " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25322" Nombre="GUASCA " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25324" Nombre="GUATAQUÍ " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25326" Nombre="GUATAVITA " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25328" Nombre="GUAYABAL DE SÍQUIMA " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25335" Nombre="GUAYABETAL " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25339" Nombre="GUTIÉRREZ " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25368" Nombre="JERUSALÉN " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25372" Nombre="JUNÍN " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25377" Nombre="LA CALERA " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25386" Nombre="LA MESA " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25394" Nombre="LA PALMA " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25398" Nombre="LA PEÑA " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25402" Nombre="LA VEGA " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25407" Nombre="LENGUAZAQUE " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25426" Nombre="MACHETÁ " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25430" Nombre="MADRID " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25436" Nombre="MANTA " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25438" Nombre="MEDINA " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25473" Nombre="MOSQUERA " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25483" Nombre="NARIÑO " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25486" Nombre="NEMOCÓN " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25488" Nombre="NILO " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25489" Nombre="NIMAIMA " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25491" Nombre="NOCAIMA " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25506" Nombre="VENECIA " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25513" Nombre="PACHO " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25518" Nombre="PAIME " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25524" Nombre="PANDI " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25530" Nombre="PARATEBUENO " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25535" Nombre="PASCA " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25572" Nombre="PUERTO SALGAR " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25580" Nombre="PULÍ " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25592" Nombre="QUEBRADANEGRA " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25594" Nombre="QUETAME " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25596" Nombre="QUIPILE " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25599" Nombre="APULO " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25612" Nombre="RICAURTE " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25645" Nombre="SAN ANTONIO DEL TEQUENDAMA " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25649" Nombre="SAN BERNARDO " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25653" Nombre="SAN CAYETANO " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25658" Nombre="SAN FRANCISCO " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25662" Nombre="SAN JUAN DE RIOSECO " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25718" Nombre="SASAIMA " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25736" Nombre="SESQUILÉ " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25740" Nombre="SIBATÉ " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25743" Nombre="SILVANIA " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25745" Nombre="SIMIJACA " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25754" Nombre="SOACHA " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25758" Nombre="SOPÓ " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25769" Nombre="SUBACHOQUE " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25772" Nombre="SUESCA " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25777" Nombre="SUPATÁ " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25779" Nombre="SUSA " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25781" Nombre="SUTATAUSA " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25785" Nombre="TABIO " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25793" Nombre="TAUSA " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25797" Nombre="TENA " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25799" Nombre="TENJO " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25805" Nombre="TIBACUY " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25807" Nombre="TIBIRITA " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25815" Nombre="TOCAIMA " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25817" Nombre="TOCANCIPÁ " />
+  <Municipio CodigoDepartamento="25" CodigoMunicipio="25823" Nombre="TOPAIPÍ " />
+  <Municipio CodigoDepartamento="27" CodigoMunicipio="27001" Nombre="QUIBDÓ" />
+  <Municipio CodigoDepartamento="27" CodigoMunicipio="27006" Nombre="ACANDÍ" />
+  <Municipio CodigoDepartamento="27" CodigoMunicipio="27025" Nombre="ALTO BAUDÓ (PIE DE PATÓ)" />
+  <Municipio CodigoDepartamento="27" CodigoMunicipio="27050" Nombre="ATRATO (YUTO)" />
+  <Municipio CodigoDepartamento="27" CodigoMunicipio="27073" Nombre="BAGADÓ" />
+  <Municipio CodigoDepartamento="27" CodigoMunicipio="27075" Nombre="BAHÍA SOLANO (MUTIS)" />
+  <Municipio CodigoDepartamento="27" CodigoMunicipio="27077" Nombre="BAJO BAUDÓ (PIZARRO)" />
+  <Municipio CodigoDepartamento="27" CodigoMunicipio="27099" Nombre="BOJAYÁ (BELLA VISTA)" />
+  <Municipio CodigoDepartamento="27" CodigoMunicipio="27135" Nombre="EL CANTÓN DEL SAN PABLO" />
+  <Municipio CodigoDepartamento="27" CodigoMunicipio="27150" Nombre="CARMEN DEL DARIÉN" />
+  <Municipio CodigoDepartamento="27" CodigoMunicipio="27160" Nombre="CÉRTEGUI" />
+  <Municipio CodigoDepartamento="27" CodigoMunicipio="27205" Nombre="CONDOTO" />
+  <Municipio CodigoDepartamento="27" CodigoMunicipio="27245" Nombre="EL CARMEN DE ATRATO" />
+  <Municipio CodigoDepartamento="27" CodigoMunicipio="27250" Nombre="EL LITORAL DEL SAN JUAN" />
+  <Municipio CodigoDepartamento="27" CodigoMunicipio="27361" Nombre="ISTMINA" />
+  <Municipio CodigoDepartamento="27" CodigoMunicipio="27372" Nombre="JURADÓ" />
+  <Municipio CodigoDepartamento="27" CodigoMunicipio="27413" Nombre="LLORÓ" />
+  <Municipio CodigoDepartamento="27" CodigoMunicipio="27425" Nombre="MEDIO ATRATO (BETÉ)" />
+  <Municipio CodigoDepartamento="27" CodigoMunicipio="27430" Nombre="MEDIO BAUDÓ" />
+  <Municipio CodigoDepartamento="27" CodigoMunicipio="27450" Nombre="MEDIO SAN JUAN (ANDAGOYA)" />
+  <Municipio CodigoDepartamento="27" CodigoMunicipio="27491" Nombre="NÓVITA" />
+  <Municipio CodigoDepartamento="27" CodigoMunicipio="27495" Nombre="NUQUÍ" />
+  <Municipio CodigoDepartamento="27" CodigoMunicipio="27580" Nombre="RÍO IRÓ (SANTA RITA)" />
+  <Municipio CodigoDepartamento="27" CodigoMunicipio="27600" Nombre="RÍO QUITO (PAIMADÓ)" />
+  <Municipio CodigoDepartamento="27" CodigoMunicipio="27615" Nombre="RIOSUCIO" />
+  <Municipio CodigoDepartamento="27" CodigoMunicipio="27660" Nombre="SAN JOSÉ DEL PALMAR" />
+  <Municipio CodigoDepartamento="27" CodigoMunicipio="27745" Nombre="SIPÍ" />
+  <Municipio CodigoDepartamento="27" CodigoMunicipio="27787" Nombre="TADÓ" />
+  <Municipio CodigoDepartamento="27" CodigoMunicipio="27800" Nombre="UNGUÍA" />
+  <Municipio CodigoDepartamento="27" CodigoMunicipio="27810" Nombre="UNIÓN PANAMERICANA (LAS ÁNIMAS)" />
+  <Municipio CodigoDepartamento="41" CodigoMunicipio="41001" Nombre="NEIVA" />
+  <Municipio CodigoDepartamento="41" CodigoMunicipio="41006" Nombre="ACEVEDO" />
+  <Municipio CodigoDepartamento="41" CodigoMunicipio="41013" Nombre="AGRADO" />
+  <Municipio CodigoDepartamento="41" CodigoMunicipio="41016" Nombre="AIPE" />
+  <Municipio CodigoDepartamento="41" CodigoMunicipio="41020" Nombre="ALGECIRAS" />
+  <Municipio CodigoDepartamento="41" CodigoMunicipio="41026" Nombre="ALTAMIRA" />
+  <Municipio CodigoDepartamento="41" CodigoMunicipio="41078" Nombre="BARAYA" />
+  <Municipio CodigoDepartamento="41" CodigoMunicipio="41132" Nombre="CAMPOALEGRE" />
+  <Municipio CodigoDepartamento="41" CodigoMunicipio="41206" Nombre="COLOMBIA" />
+  <Municipio CodigoDepartamento="41" CodigoMunicipio="41244" Nombre="ELÍAS" />
+  <Municipio CodigoDepartamento="41" CodigoMunicipio="41298" Nombre="GARZÓN" />
+  <Municipio CodigoDepartamento="41" CodigoMunicipio="41306" Nombre="GIGANTE" />
+  <Municipio CodigoDepartamento="41" CodigoMunicipio="41319" Nombre="GUADALUPE" />
+  <Municipio CodigoDepartamento="41" CodigoMunicipio="41349" Nombre="HOBO" />
+  <Municipio CodigoDepartamento="41" CodigoMunicipio="41357" Nombre="ÍQUIRA" />
+  <Municipio CodigoDepartamento="41" CodigoMunicipio="41359" Nombre="ISNOS" />
+  <Municipio CodigoDepartamento="41" CodigoMunicipio="41378" Nombre="LA ARGENTINA (LA PLATA VIEJA)" />
+  <Municipio CodigoDepartamento="41" CodigoMunicipio="41396" Nombre="LA PLATA" />
+  <Municipio CodigoDepartamento="41" CodigoMunicipio="41483" Nombre="NÁTAGA" />
+  <Municipio CodigoDepartamento="41" CodigoMunicipio="41503" Nombre="OPORAPA" />
+  <Municipio CodigoDepartamento="41" CodigoMunicipio="41518" Nombre="PAICOL" />
+  <Municipio CodigoDepartamento="41" CodigoMunicipio="41524" Nombre="PALERMO" />
+  <Municipio CodigoDepartamento="41" CodigoMunicipio="41530" Nombre="PALESTINA" />
+  <Municipio CodigoDepartamento="41" CodigoMunicipio="41548" Nombre="PITAL" />
+  <Municipio CodigoDepartamento="41" CodigoMunicipio="41551" Nombre="PITALITO" />
+  <Municipio CodigoDepartamento="41" CodigoMunicipio="41615" Nombre="RIVERA" />
+  <Municipio CodigoDepartamento="41" CodigoMunicipio="41660" Nombre="SALADOBLANCO" />
+  <Municipio CodigoDepartamento="41" CodigoMunicipio="41668" Nombre="SAN AGUSTÍN" />
+  <Municipio CodigoDepartamento="41" CodigoMunicipio="41676" Nombre="SANTA MARÍA" />
+  <Municipio CodigoDepartamento="41" CodigoMunicipio="41770" Nombre="SUAZA" />
+  <Municipio CodigoDepartamento="41" CodigoMunicipio="41791" Nombre="TARQUI" />
+  <Municipio CodigoDepartamento="41" CodigoMunicipio="41797" Nombre="TESALIA (CARNICERÍAS)" />
+  <Municipio CodigoDepartamento="41" CodigoMunicipio="41799" Nombre="TELLO" />
+  <Municipio CodigoDepartamento="41" CodigoMunicipio="41801" Nombre="TERUEL" />
+  <Municipio CodigoDepartamento="41" CodigoMunicipio="41807" Nombre="TIMANÁ" />
+  <Municipio CodigoDepartamento="41" CodigoMunicipio="41872" Nombre="VILLAVIEJA" />
+  <Municipio CodigoDepartamento="41" CodigoMunicipio="41885" Nombre="YAGUARÁ" />
+  <Municipio CodigoDepartamento="44" CodigoMunicipio="44001" Nombre="RIOHACHA" />
+  <Municipio CodigoDepartamento="44" CodigoMunicipio="44035" Nombre="ALBANIA" />
+  <Municipio CodigoDepartamento="44" CodigoMunicipio="44078" Nombre="BARRANCAS" />
+  <Municipio CodigoDepartamento="44" CodigoMunicipio="44090" Nombre="DIBULLA" />
+  <Municipio CodigoDepartamento="44" CodigoMunicipio="44098" Nombre="DISTRACCIÓN" />
+  <Municipio CodigoDepartamento="44" CodigoMunicipio="44110" Nombre="EL MOLINO" />
+  <Municipio CodigoDepartamento="44" CodigoMunicipio="44279" Nombre="FONSECA" />
+  <Municipio CodigoDepartamento="44" CodigoMunicipio="44378" Nombre="HATONUEVO" />
+  <Municipio CodigoDepartamento="44" CodigoMunicipio="44420" Nombre="LA JAGUA DEL PILAR" />
+  <Municipio CodigoDepartamento="44" CodigoMunicipio="44430" Nombre="MAICAO" />
+  <Municipio CodigoDepartamento="44" CodigoMunicipio="44560" Nombre="MANAURE" />
+  <Municipio CodigoDepartamento="44" CodigoMunicipio="44650" Nombre="SAN JUAN DEL CESAR" />
+  <Municipio CodigoDepartamento="44" CodigoMunicipio="44847" Nombre="URIBIA" />
+  <Municipio CodigoDepartamento="44" CodigoMunicipio="44855" Nombre="URUMITA" />
+  <Municipio CodigoDepartamento="44" CodigoMunicipio="44874" Nombre="VILLANUEVA" />
+  <Municipio CodigoDepartamento="47" CodigoMunicipio="47001" Nombre="SANTA MARTA" />
+  <Municipio CodigoDepartamento="47" CodigoMunicipio="47030" Nombre="ALGARROBO" />
+  <Municipio CodigoDepartamento="47" CodigoMunicipio="47053" Nombre="ARACATACA" />
+  <Municipio CodigoDepartamento="47" CodigoMunicipio="47058" Nombre="ARIGUANÍ" />
+  <Municipio CodigoDepartamento="47" CodigoMunicipio="47161" Nombre="CERRO DE SAN ANTONIO" />
+  <Municipio CodigoDepartamento="47" CodigoMunicipio="47170" Nombre="CHIBOLO" />
+  <Municipio CodigoDepartamento="47" CodigoMunicipio="47189" Nombre="CIÉNAGA" />
+  <Municipio CodigoDepartamento="47" CodigoMunicipio="47205" Nombre="CONCORDIA" />
+  <Municipio CodigoDepartamento="47" CodigoMunicipio="47245" Nombre="EL BANCO" />
+  <Municipio CodigoDepartamento="47" CodigoMunicipio="47258" Nombre="EL PIÑÓN" />
+  <Municipio CodigoDepartamento="47" CodigoMunicipio="47268" Nombre="EL RETÉN" />
+  <Municipio CodigoDepartamento="47" CodigoMunicipio="47288" Nombre="FUNDACIÓN" />
+  <Municipio CodigoDepartamento="47" CodigoMunicipio="47318" Nombre="GUAMAL" />
+  <Municipio CodigoDepartamento="47" CodigoMunicipio="47460" Nombre="NUEVA GRANADA" />
+  <Municipio CodigoDepartamento="47" CodigoMunicipio="47541" Nombre="PEDRAZA" />
+  <Municipio CodigoDepartamento="47" CodigoMunicipio="47545" Nombre="PIJIÑO DEL CARMEN" />
+  <Municipio CodigoDepartamento="47" CodigoMunicipio="47551" Nombre="PIVIJAY" />
+  <Municipio CodigoDepartamento="47" CodigoMunicipio="47555" Nombre="PLATO" />
+  <Municipio CodigoDepartamento="47" CodigoMunicipio="47570" Nombre="PUEBLOVIEJO" />
+  <Municipio CodigoDepartamento="47" CodigoMunicipio="47605" Nombre="REMOLINO" />
+  <Municipio CodigoDepartamento="47" CodigoMunicipio="47660" Nombre="SABANAS DE SAN ÁNGEL" />
+  <Municipio CodigoDepartamento="47" CodigoMunicipio="47675" Nombre="SALAMINA" />
+  <Municipio CodigoDepartamento="47" CodigoMunicipio="47692" Nombre="SAN SEBASTIÁN DE BUENAVISTA" />
+  <Municipio CodigoDepartamento="47" CodigoMunicipio="47703" Nombre="SAN ZENÓN" />
+  <Municipio CodigoDepartamento="47" CodigoMunicipio="47707" Nombre="SANTA ANA" />
+  <Municipio CodigoDepartamento="47" CodigoMunicipio="47720" Nombre="SANTA BÁRBARA DE PINTO" />
+  <Municipio CodigoDepartamento="47" CodigoMunicipio="47745" Nombre="SITIONUEVO" />
+  <Municipio CodigoDepartamento="47" CodigoMunicipio="47798" Nombre="TENERIFE" />
+  <Municipio CodigoDepartamento="47" CodigoMunicipio="47960" Nombre="ZAPAYÁN" />
+  <Municipio CodigoDepartamento="47" CodigoMunicipio="47980" Nombre="ZONA BANANERA" />
+  <Municipio CodigoDepartamento="50" CodigoMunicipio="50001" Nombre="VILLAVICENCIO" />
+  <Municipio CodigoDepartamento="50" CodigoMunicipio="50006" Nombre="ACACÍAS" />
+  <Municipio CodigoDepartamento="50" CodigoMunicipio="50110" Nombre="BARRANCA DE UPÍA" />
+  <Municipio CodigoDepartamento="50" CodigoMunicipio="50124" Nombre="CABUYARO" />
+  <Municipio CodigoDepartamento="50" CodigoMunicipio="50150" Nombre="CASTILLA LA NUEVA" />
+  <Municipio CodigoDepartamento="50" CodigoMunicipio="50223" Nombre="CUBARRAL" />
+  <Municipio CodigoDepartamento="50" CodigoMunicipio="50226" Nombre="CUMARAL" />
+  <Municipio CodigoDepartamento="50" CodigoMunicipio="50245" Nombre="EL CALVARIO" />
+  <Municipio CodigoDepartamento="50" CodigoMunicipio="50251" Nombre="EL CASTILLO" />
+  <Municipio CodigoDepartamento="50" CodigoMunicipio="50270" Nombre="EL DORADO" />
+  <Municipio CodigoDepartamento="50" CodigoMunicipio="50287" Nombre="FUENTEDEORO" />
+  <Municipio CodigoDepartamento="50" CodigoMunicipio="50313" Nombre="GRANADA" />
+  <Municipio CodigoDepartamento="50" CodigoMunicipio="50318" Nombre="GUAMAL" />
+  <Municipio CodigoDepartamento="50" CodigoMunicipio="50325" Nombre="MAPIRIPÁN" />
+  <Municipio CodigoDepartamento="50" CodigoMunicipio="50330" Nombre="MESETAS" />
+  <Municipio CodigoDepartamento="50" CodigoMunicipio="50350" Nombre="LA MACARENA" />
+  <Municipio CodigoDepartamento="50" CodigoMunicipio="50370" Nombre="URIBE" />
+  <Municipio CodigoDepartamento="50" CodigoMunicipio="50400" Nombre="LEJANÍAS" />
+  <Municipio CodigoDepartamento="50" CodigoMunicipio="50450" Nombre="PUERTO CONCORDIA" />
+  <Municipio CodigoDepartamento="50" CodigoMunicipio="50568" Nombre="PUERTO GAITÁN" />
+  <Municipio CodigoDepartamento="50" CodigoMunicipio="50573" Nombre="PUERTO LÓPEZ" />
+  <Municipio CodigoDepartamento="50" CodigoMunicipio="50577" Nombre="PUERTO LLERAS" />
+  <Municipio CodigoDepartamento="50" CodigoMunicipio="50590" Nombre="PUERTO RICO" />
+  <Municipio CodigoDepartamento="50" CodigoMunicipio="50606" Nombre="RESTREPO" />
+  <Municipio CodigoDepartamento="50" CodigoMunicipio="50680" Nombre="SAN CARLOS DE GUAROA" />
+  <Municipio CodigoDepartamento="50" CodigoMunicipio="50683" Nombre="SAN JUAN DE ARAMA" />
+  <Municipio CodigoDepartamento="50" CodigoMunicipio="50686" Nombre="SAN JUANITO" />
+  <Municipio CodigoDepartamento="50" CodigoMunicipio="50689" Nombre="SAN MARTÍN DE LOS LLANOS" />
+  <Municipio CodigoDepartamento="50" CodigoMunicipio="50711" Nombre="VISTAHERMOSA" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52001" Nombre="PASTO" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52019" Nombre="ALBÁN (SAN JOSÉ)" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52022" Nombre="ALDANA" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52036" Nombre="ANCUYÁ" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52051" Nombre="ARBOLEDA" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52079" Nombre="BARBACOAS" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52083" Nombre="BELÉN" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52110" Nombre="BUESACO" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52203" Nombre="COLÓN (GÉNOVA)" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52207" Nombre="CONSACÁ" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52210" Nombre="CONTADERO" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52215" Nombre="CÓRDOBA" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52224" Nombre="CUASPÚD" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52227" Nombre="CUMBAL" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52233" Nombre="CUMBITARA" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52240" Nombre="CHACHAGÜÍ" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52250" Nombre="EL CHARCO" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52254" Nombre="EL PEÑOL" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52256" Nombre="EL ROSARIO" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52258" Nombre="EL TABLÓN DE GÓMEZ" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52260" Nombre="EL TAMBO" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52287" Nombre="FUNES" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52317" Nombre="GUACHUCAL" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52320" Nombre="GUAITARILLA" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52323" Nombre="GUALMATÁN" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52352" Nombre="ILES" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52354" Nombre="IMUÉS" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52356" Nombre="IPIALES" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52378" Nombre="LA CRUZ" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52381" Nombre="LA FLORIDA" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52385" Nombre="LA LLANADA" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52390" Nombre="LA TOLA" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52399" Nombre="LA UNIÓN" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52405" Nombre="LEIVA" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52411" Nombre="LINARES" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52418" Nombre="LOS ANDES (SOTOMAYOR)" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52427" Nombre="MAGÜÍ (PAYÁN)" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52435" Nombre="MALLAMA (PIEDRANCHA)" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52473" Nombre="MOSQUERA" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52480" Nombre="NARIÑO" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52490" Nombre="OLAYA HERRERA" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52506" Nombre="OSPINA" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52520" Nombre="FRANCISCO PIZARRO" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52540" Nombre="POLICARPA" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52560" Nombre="POTOSÍ" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52565" Nombre="PROVIDENCIA" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52573" Nombre="PUERRES" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52585" Nombre="PUPIALES" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52612" Nombre="RICAURTE" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52621" Nombre="ROBERTO PAYÁN (SAN JOSÉ)" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52678" Nombre="SAMANIEGO" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52683" Nombre="SANDONÁ" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52685" Nombre="SAN BERNARDO" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52687" Nombre="SAN LORENZO" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52693" Nombre="SAN PABLO" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52694" Nombre="SAN PEDRO DE CARTAGO" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52696" Nombre="SANTA BÁRBARA" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52699" Nombre="SANTACRUZ" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52720" Nombre="SAPUYES" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52786" Nombre="TAMINANGO" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52788" Nombre="TANGUA" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52835" Nombre="SAN ANDRÉS DE TUMACO" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52838" Nombre="TÚQUERRES" />
+  <Municipio CodigoDepartamento="52" CodigoMunicipio="52885" Nombre="YACUANQUER" />
+  <Municipio CodigoDepartamento="54" CodigoMunicipio="54001" Nombre="CÚCUTA" />
+  <Municipio CodigoDepartamento="54" CodigoMunicipio="54003" Nombre="ÁBREGO" />
+  <Municipio CodigoDepartamento="54" CodigoMunicipio="54051" Nombre="ARBOLEDAS" />
+  <Municipio CodigoDepartamento="54" CodigoMunicipio="54099" Nombre="BOCHALEMA" />
+  <Municipio CodigoDepartamento="54" CodigoMunicipio="54109" Nombre="BUCARASICA" />
+  <Municipio CodigoDepartamento="54" CodigoMunicipio="54125" Nombre="CÁCOTA DE VELASCO" />
+  <Municipio CodigoDepartamento="54" CodigoMunicipio="54128" Nombre="CÁCHIRA" />
+  <Municipio CodigoDepartamento="54" CodigoMunicipio="54172" Nombre="CHINÁCOTA" />
+  <Municipio CodigoDepartamento="54" CodigoMunicipio="54174" Nombre="CHITAGÁ" />
+  <Municipio CodigoDepartamento="54" CodigoMunicipio="54206" Nombre="CONVENCIÓN" />
+  <Municipio CodigoDepartamento="54" CodigoMunicipio="54223" Nombre="CUCUTILLA" />
+  <Municipio CodigoDepartamento="54" CodigoMunicipio="54239" Nombre="DURANIA" />
+  <Municipio CodigoDepartamento="54" CodigoMunicipio="54245" Nombre="EL CARMEN" />
+  <Municipio CodigoDepartamento="54" CodigoMunicipio="54250" Nombre="EL TARRA" />
+  <Municipio CodigoDepartamento="54" CodigoMunicipio="54261" Nombre="EL ZULIA" />
+  <Municipio CodigoDepartamento="54" CodigoMunicipio="54313" Nombre="GRAMALOTE" />
+  <Municipio CodigoDepartamento="54" CodigoMunicipio="54344" Nombre="HACARÍ" />
+  <Municipio CodigoDepartamento="54" CodigoMunicipio="54347" Nombre="HERRÁN" />
+  <Municipio CodigoDepartamento="54" CodigoMunicipio="54377" Nombre="LABATECA" />
+  <Municipio CodigoDepartamento="54" CodigoMunicipio="54385" Nombre="LA ESPERANZA" />
+  <Municipio CodigoDepartamento="54" CodigoMunicipio="54398" Nombre="LA PLAYA DE BELÉN" />
+  <Municipio CodigoDepartamento="54" CodigoMunicipio="54405" Nombre="LOS PATIOS" />
+  <Municipio CodigoDepartamento="54" CodigoMunicipio="54418" Nombre="LOURDES" />
+  <Municipio CodigoDepartamento="54" CodigoMunicipio="54480" Nombre="MUTISCUA" />
+  <Municipio CodigoDepartamento="54" CodigoMunicipio="54498" Nombre="OCAÑA" />
+  <Municipio CodigoDepartamento="54" CodigoMunicipio="54518" Nombre="PAMPLONA" />
+  <Municipio CodigoDepartamento="54" CodigoMunicipio="54520" Nombre="PAMPLONITA" />
+  <Municipio CodigoDepartamento="54" CodigoMunicipio="54553" Nombre="PUERTO SANTANDER" />
+  <Municipio CodigoDepartamento="54" CodigoMunicipio="54599" Nombre="RAGONVALIA" />
+  <Municipio CodigoDepartamento="54" CodigoMunicipio="54660" Nombre="SALAZAR DE LAS PALMAS" />
+  <Municipio CodigoDepartamento="54" CodigoMunicipio="54670" Nombre="SAN CALIXTO" />
+  <Municipio CodigoDepartamento="54" CodigoMunicipio="54673" Nombre="SAN CAYETANO" />
+  <Municipio CodigoDepartamento="54" CodigoMunicipio="54680" Nombre="SANTIAGO" />
+  <Municipio CodigoDepartamento="54" CodigoMunicipio="54720" Nombre="SARDINATA" />
+  <Municipio CodigoDepartamento="54" CodigoMunicipio="54743" Nombre="SANTO DOMINGO DE SILOS" />
+  <Municipio CodigoDepartamento="54" CodigoMunicipio="54800" Nombre="TEORAMA" />
+  <Municipio CodigoDepartamento="54" CodigoMunicipio="54810" Nombre="TIBÚ " />
+  <Municipio CodigoDepartamento="54" CodigoMunicipio="54820" Nombre="TOLEDO " />
+  <Municipio CodigoDepartamento="54" CodigoMunicipio="54871" Nombre="VILLA CARO " />
+  <Municipio CodigoDepartamento="54" CodigoMunicipio="54874" Nombre="VILLA DEL ROSARIO" />
+  <Municipio CodigoDepartamento="63" CodigoMunicipio="63001" Nombre="ARMENIA" />
+  <Municipio CodigoDepartamento="63" CodigoMunicipio="63111" Nombre="BUENAVISTA" />
+  <Municipio CodigoDepartamento="63" CodigoMunicipio="63130" Nombre="CALARCÁ" />
+  <Municipio CodigoDepartamento="63" CodigoMunicipio="63190" Nombre="CIRCASIA" />
+  <Municipio CodigoDepartamento="63" CodigoMunicipio="63212" Nombre="CÓRDOBA" />
+  <Municipio CodigoDepartamento="63" CodigoMunicipio="63272" Nombre="FILANDIA" />
+  <Municipio CodigoDepartamento="63" CodigoMunicipio="63302" Nombre="GÉNOVA" />
+  <Municipio CodigoDepartamento="63" CodigoMunicipio="63401" Nombre="LA TEBAIDA" />
+  <Municipio CodigoDepartamento="63" CodigoMunicipio="63470" Nombre="MONTENEGRO" />
+  <Municipio CodigoDepartamento="63" CodigoMunicipio="63548" Nombre="PIJAO" />
+  <Municipio CodigoDepartamento="63" CodigoMunicipio="63594" Nombre="QUIMBAYA" />
+  <Municipio CodigoDepartamento="63" CodigoMunicipio="63690" Nombre="SALENTO" />
+  <Municipio CodigoDepartamento="66" CodigoMunicipio="66001" Nombre="PEREIRA" />
+  <Municipio CodigoDepartamento="66" CodigoMunicipio="66045" Nombre="APÍA" />
+  <Municipio CodigoDepartamento="66" CodigoMunicipio="66075" Nombre="BALBOA" />
+  <Municipio CodigoDepartamento="66" CodigoMunicipio="66088" Nombre="BELÉN DE UMBRÍA" />
+  <Municipio CodigoDepartamento="66" CodigoMunicipio="66170" Nombre="DOSQUEBRADAS" />
+  <Municipio CodigoDepartamento="66" CodigoMunicipio="66318" Nombre="GUÁTICA" />
+  <Municipio CodigoDepartamento="66" CodigoMunicipio="66383" Nombre="LA CELIA" />
+  <Municipio CodigoDepartamento="66" CodigoMunicipio="66400" Nombre="LA VIRGINIA" />
+  <Municipio CodigoDepartamento="66" CodigoMunicipio="66440" Nombre="MARSELLA" />
+  <Municipio CodigoDepartamento="66" CodigoMunicipio="66456" Nombre="MISTRATÓ" />
+  <Municipio CodigoDepartamento="66" CodigoMunicipio="66572" Nombre="PUEBLO RICO" />
+  <Municipio CodigoDepartamento="66" CodigoMunicipio="66594" Nombre="QUINCHÍA" />
+  <Municipio CodigoDepartamento="66" CodigoMunicipio="66682" Nombre="SANTA ROSA DE CABAL" />
+  <Municipio CodigoDepartamento="66" CodigoMunicipio="66687" Nombre="SANTUARIO" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68001" Nombre="BUCARAMANGA" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68013" Nombre="AGUADA" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68020" Nombre="ALBANIA" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68051" Nombre="ARATOCA" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68077" Nombre="BARBOSA" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68079" Nombre="BARICHARA" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68081" Nombre="BARRANCABERMEJA" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68092" Nombre="BETULIA" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68101" Nombre="BOLÍVAR" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68121" Nombre="CABRERA" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68132" Nombre="CALIFORNIA" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68147" Nombre="CAPITANEJO" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68152" Nombre="CARCASÍ" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68160" Nombre="CEPITÁ" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68162" Nombre="CERRITO" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68167" Nombre="CHARALÁ" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68169" Nombre="CHARTA" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68176" Nombre="CHIMA" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68179" Nombre="CHIPATÁ" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68190" Nombre="CIMITARRA" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68207" Nombre="CONCEPCIÓN" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68209" Nombre="CONFINES" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68211" Nombre="CONTRATACIÓN" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68217" Nombre="COROMORO" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68229" Nombre="CURITÍ" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68235" Nombre="EL CARMEN DE CHUCURÍ" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68245" Nombre="EL GUACAMAYO" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68250" Nombre="EL PEÑÓN" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68255" Nombre="EL PLAYÓN" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68264" Nombre="ENCINO" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68266" Nombre="ENCISO" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68271" Nombre="FLORIÁN" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68276" Nombre="FLORIDABLANCA" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68296" Nombre="GALÁN" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68298" Nombre="GÁMBITA" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68307" Nombre="GIRÓN" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68318" Nombre="GUACA" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68320" Nombre="GUADALUPE" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68322" Nombre="GUAPOTÁ" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68324" Nombre="GUAVATÁ" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68327" Nombre="GÜEPSA" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68344" Nombre="HATO" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68368" Nombre="JESÚS MARÍA" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68370" Nombre="JORDÁN" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68377" Nombre="LA BELLEZA" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68385" Nombre="LANDÁZURI" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68397" Nombre="LA PAZ" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68406" Nombre="LEBRIJA" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68418" Nombre="LOS SANTOS" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68425" Nombre="MACARAVITA" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68432" Nombre="MÁLAGA" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68444" Nombre="MATANZA" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68464" Nombre="MOGOTES" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68468" Nombre="MOLAGAVITA" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68498" Nombre="OCAMONTE" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68500" Nombre="OIBA" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68502" Nombre="ONZAGA" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68522" Nombre="PALMAR" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68524" Nombre="PALMAS DEL SOCORRO" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68533" Nombre="PÁRAMO" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68547" Nombre="PIEDECUESTA" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68549" Nombre="PINCHOTE" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68572" Nombre="PUENTE NACIONAL" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68573" Nombre="PUERTO PARRA " />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68575" Nombre="PUERTO WILCHES" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68615" Nombre="RIONEGRO" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68655" Nombre="SABANA DE TORRES" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68669" Nombre="SAN ANDRÉS" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68673" Nombre="SAN BENITO" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68679" Nombre="SAN GIL" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68682" Nombre="SAN JOAQUÍN" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68684" Nombre="SAN JOSÉ DE MIRANDA" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68686" Nombre="SAN MIGUEL" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68689" Nombre="SAN VICENTE DE CHUCURÍ" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68705" Nombre="SANTA BÁRBARA" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68720" Nombre="SANTA HELENA DEL OPÓN" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68745" Nombre="SIMACOTA" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68755" Nombre="SOCORRO" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68770" Nombre="SUAITA" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68773" Nombre="SUCRE" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68780" Nombre="SURATÁ" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68820" Nombre="TONA" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68855" Nombre="VALLE DE SAN JOSÉ" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68861" Nombre="VÉLEZ" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68867" Nombre="VETAS" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68872" Nombre="VILLANUEVA" />
+  <Municipio CodigoDepartamento="68" CodigoMunicipio="68895" Nombre="ZAPATOCA" />
+  <Municipio CodigoDepartamento="70" CodigoMunicipio="70001" Nombre="SINCELEJO" />
+  <Municipio CodigoDepartamento="70" CodigoMunicipio="70110" Nombre="BUENAVISTA" />
+  <Municipio CodigoDepartamento="70" CodigoMunicipio="70124" Nombre="CAIMITO" />
+  <Municipio CodigoDepartamento="70" CodigoMunicipio="70204" Nombre="COLOSÓ" />
+  <Municipio CodigoDepartamento="70" CodigoMunicipio="70215" Nombre="COROZAL" />
+  <Municipio CodigoDepartamento="70" CodigoMunicipio="70221" Nombre="COVEÑAS" />
+  <Municipio CodigoDepartamento="70" CodigoMunicipio="70230" Nombre="CHALÁN" />
+  <Municipio CodigoDepartamento="70" CodigoMunicipio="70233" Nombre="EL ROBLE" />
+  <Municipio CodigoDepartamento="70" CodigoMunicipio="70235" Nombre="GALERAS" />
+  <Municipio CodigoDepartamento="70" CodigoMunicipio="70265" Nombre="GUARANDA" />
+  <Municipio CodigoDepartamento="70" CodigoMunicipio="70400" Nombre="LA UNIÓN" />
+  <Municipio CodigoDepartamento="70" CodigoMunicipio="70418" Nombre="LOS PALMITOS" />
+  <Municipio CodigoDepartamento="70" CodigoMunicipio="70429" Nombre="MAJAGUAL" />
+  <Municipio CodigoDepartamento="70" CodigoMunicipio="70473" Nombre="MORROA" />
+  <Municipio CodigoDepartamento="70" CodigoMunicipio="70508" Nombre="OVEJAS" />
+  <Municipio CodigoDepartamento="70" CodigoMunicipio="70523" Nombre="PALMITO" />
+  <Municipio CodigoDepartamento="70" CodigoMunicipio="70670" Nombre="SAMPUÉS" />
+  <Municipio CodigoDepartamento="70" CodigoMunicipio="70678" Nombre="SAN BENITO ABAD" />
+  <Municipio CodigoDepartamento="70" CodigoMunicipio="70702" Nombre="SAN JUAN DE BETULIA" />
+  <Municipio CodigoDepartamento="70" CodigoMunicipio="70708" Nombre="SAN MARCOS" />
+  <Municipio CodigoDepartamento="70" CodigoMunicipio="70713" Nombre="SAN ONOFRE" />
+  <Municipio CodigoDepartamento="70" CodigoMunicipio="70717" Nombre="SAN PEDRO" />
+  <Municipio CodigoDepartamento="70" CodigoMunicipio="70742" Nombre="SAN LUIS DE SINCÉ" />
+  <Municipio CodigoDepartamento="70" CodigoMunicipio="70771" Nombre="SUCRE" />
+  <Municipio CodigoDepartamento="70" CodigoMunicipio="70820" Nombre="SANTIAGO DE TOLÚ" />
+  <Municipio CodigoDepartamento="70" CodigoMunicipio="70823" Nombre="TOLÚ VIEJO" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73001" Nombre="IBAGUÉ" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73024" Nombre="ALPUJARRA" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73026" Nombre="ALVARADO" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73030" Nombre="AMBALEMA" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73043" Nombre="ANZOÁTEGUI" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73055" Nombre="ARMERO (GUAYABAL)" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73067" Nombre="ATACO" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73124" Nombre="CAJAMARCA" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73148" Nombre="CARMEN DE APICALÁ" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73152" Nombre="CASABIANCA" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73168" Nombre="CHAPARRAL" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73200" Nombre="COELLO" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73217" Nombre="COYAIMA" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73226" Nombre="CUNDAY" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73236" Nombre="DOLORES" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73268" Nombre="ESPINAL" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73270" Nombre="FALAN" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73275" Nombre="FLANDES" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73283" Nombre="FRESNO" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73319" Nombre="GUAMO" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73347" Nombre="HERVEO" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73349" Nombre="HONDA" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73352" Nombre="ICONONZO" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73408" Nombre="LÉRIDA" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73411" Nombre="LÍBANO" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73443" Nombre="SAN SEBASTIÁN DE MARIQUITA" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73449" Nombre="MELGAR" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73461" Nombre="MURILLO" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73483" Nombre="NATAGAIMA" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73504" Nombre="ORTEGA" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73520" Nombre="PALOCABILDO" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73547" Nombre="PIEDRAS" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73555" Nombre="PLANADAS" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73563" Nombre="PRADO" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73585" Nombre="PURIFICACIÓN" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73616" Nombre="RIOBLANCO" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73622" Nombre="RONCESVALLES" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73624" Nombre="ROVIRA" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73671" Nombre="SALDAÑA" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73675" Nombre="SAN ANTONIO" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73678" Nombre="SAN LUIS" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73686" Nombre="SANTA ISABEL" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73770" Nombre="SUÁREZ" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73854" Nombre="VALLE DE SAN JUAN" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73861" Nombre="VENADILLO" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73870" Nombre="VILLAHERMOSA" />
+  <Municipio CodigoDepartamento="73" CodigoMunicipio="73873" Nombre="VILLARRICA" />
+  <Municipio CodigoDepartamento="76" CodigoMunicipio="76001" Nombre="CALI" />
+  <Municipio CodigoDepartamento="76" CodigoMunicipio="76020" Nombre="ALCALÁ" />
+  <Municipio CodigoDepartamento="76" CodigoMunicipio="76036" Nombre="ANDALUCÍA" />
+  <Municipio CodigoDepartamento="76" CodigoMunicipio="76041" Nombre="ANSERMANUEVO" />
+  <Municipio CodigoDepartamento="76" CodigoMunicipio="76054" Nombre="ARGELIA " />
+  <Municipio CodigoDepartamento="76" CodigoMunicipio="76100" Nombre="BOLÍVAR" />
+  <Municipio CodigoDepartamento="76" CodigoMunicipio="76109" Nombre="BUENAVENTURA" />
+  <Municipio CodigoDepartamento="76" CodigoMunicipio="76111" Nombre="GUADALAJARA DE BUGA" />
+  <Municipio CodigoDepartamento="76" CodigoMunicipio="76113" Nombre="BUGALAGRANDE" />
+  <Municipio CodigoDepartamento="76" CodigoMunicipio="76122" Nombre="CAICEDONIA" />
+  <Municipio CodigoDepartamento="76" CodigoMunicipio="76126" Nombre="CALIMA (DARIEN)" />
+  <Municipio CodigoDepartamento="76" CodigoMunicipio="76130" Nombre="CANDELARIA" />
+  <Municipio CodigoDepartamento="76" CodigoMunicipio="76147" Nombre="CARTAGO" />
+  <Municipio CodigoDepartamento="76" CodigoMunicipio="76233" Nombre="DAGUA" />
+  <Municipio CodigoDepartamento="76" CodigoMunicipio="76243" Nombre="EL ÁGUILA" />
+  <Municipio CodigoDepartamento="76" CodigoMunicipio="76246" Nombre="EL CAIRO" />
+  <Municipio CodigoDepartamento="76" CodigoMunicipio="76248" Nombre="EL CERRITO" />
+  <Municipio CodigoDepartamento="76" CodigoMunicipio="76250" Nombre="EL DOVIO" />
+  <Municipio CodigoDepartamento="76" CodigoMunicipio="76275" Nombre="FLORIDA" />
+  <Municipio CodigoDepartamento="76" CodigoMunicipio="76306" Nombre="GINEBRA" />
+  <Municipio CodigoDepartamento="76" CodigoMunicipio="76318" Nombre="GUACARÍ" />
+  <Municipio CodigoDepartamento="76" CodigoMunicipio="76364" Nombre="JAMUNDÍ" />
+  <Municipio CodigoDepartamento="76" CodigoMunicipio="76377" Nombre="LA CUMBRE" />
+  <Municipio CodigoDepartamento="76" CodigoMunicipio="76400" Nombre="LA UNIÓN" />
+  <Municipio CodigoDepartamento="76" CodigoMunicipio="76403" Nombre="LA VICTORIA" />
+  <Municipio CodigoDepartamento="76" CodigoMunicipio="76497" Nombre="OBANDO" />
+  <Municipio CodigoDepartamento="76" CodigoMunicipio="76520" Nombre="PALMIRA" />
+  <Municipio CodigoDepartamento="76" CodigoMunicipio="76563" Nombre="PRADERA" />
+  <Municipio CodigoDepartamento="76" CodigoMunicipio="76606" Nombre="RESTREPO" />
+  <Municipio CodigoDepartamento="76" CodigoMunicipio="76616" Nombre="RIOFRÍO" />
+  <Municipio CodigoDepartamento="76" CodigoMunicipio="76622" Nombre="ROLDANILLO" />
+  <Municipio CodigoDepartamento="76" CodigoMunicipio="76670" Nombre="SAN PEDRO" />
+  <Municipio CodigoDepartamento="76" CodigoMunicipio="76736" Nombre="SEVILLA" />
+  <Municipio CodigoDepartamento="76" CodigoMunicipio="76823" Nombre="TORO" />
+  <Municipio CodigoDepartamento="76" CodigoMunicipio="76828" Nombre="TRUJILLO" />
+  <Municipio CodigoDepartamento="76" CodigoMunicipio="76834" Nombre="TULUÁ" />
+  <Municipio CodigoDepartamento="76" CodigoMunicipio="76845" Nombre="ULLOA" />
+  <Municipio CodigoDepartamento="76" CodigoMunicipio="76863" Nombre="VERSALLES" />
+  <Municipio CodigoDepartamento="76" CodigoMunicipio="76869" Nombre="VIJES" />
+  <Municipio CodigoDepartamento="76" CodigoMunicipio="76890" Nombre="YOTOCO" />
+  <Municipio CodigoDepartamento="76" CodigoMunicipio="76892" Nombre="YUMBO" />
+  <Municipio CodigoDepartamento="76" CodigoMunicipio="76895" Nombre="ZARZAL" />
+  <Municipio CodigoDepartamento="81" CodigoMunicipio="81001" Nombre="ARAUCA" />
+  <Municipio CodigoDepartamento="81" CodigoMunicipio="81065" Nombre="ARAUQUITA" />
+  <Municipio CodigoDepartamento="81" CodigoMunicipio="81220" Nombre="CRAVO NORTE" />
+  <Municipio CodigoDepartamento="81" CodigoMunicipio="81300" Nombre="FORTUL" />
+  <Municipio CodigoDepartamento="81" CodigoMunicipio="81591" Nombre="PUERTO RONDÓN" />
+  <Municipio CodigoDepartamento="81" CodigoMunicipio="81736" Nombre="SARAVENA" />
+  <Municipio CodigoDepartamento="81" CodigoMunicipio="81794" Nombre="TAME" />
+  <Municipio CodigoDepartamento="85" CodigoMunicipio="85001" Nombre="YOPAL" />
+  <Municipio CodigoDepartamento="85" CodigoMunicipio="85010" Nombre="AGUAZUL" />
+  <Municipio CodigoDepartamento="85" CodigoMunicipio="85015" Nombre="CHÁMEZA" />
+  <Municipio CodigoDepartamento="85" CodigoMunicipio="85125" Nombre="HATO COROZAL" />
+  <Municipio CodigoDepartamento="85" CodigoMunicipio="85136" Nombre="LA SALINA" />
+  <Municipio CodigoDepartamento="85" CodigoMunicipio="85139" Nombre="MANÍ" />
+  <Municipio CodigoDepartamento="85" CodigoMunicipio="85162" Nombre="MONTERREY" />
+  <Municipio CodigoDepartamento="85" CodigoMunicipio="85225" Nombre="NUNCHÍA" />
+  <Municipio CodigoDepartamento="85" CodigoMunicipio="85230" Nombre="OROCUÉ" />
+  <Municipio CodigoDepartamento="85" CodigoMunicipio="85250" Nombre="PAZ DE ARIPORO" />
+  <Municipio CodigoDepartamento="85" CodigoMunicipio="85263" Nombre="PORE" />
+  <Municipio CodigoDepartamento="85" CodigoMunicipio="85279" Nombre="RECETOR" />
+  <Municipio CodigoDepartamento="85" CodigoMunicipio="85300" Nombre="SABANALARGA" />
+  <Municipio CodigoDepartamento="85" CodigoMunicipio="85315" Nombre="SÁCAMA" />
+  <Municipio CodigoDepartamento="85" CodigoMunicipio="85325" Nombre="SAN LUIS DE PALENQUE" />
+  <Municipio CodigoDepartamento="85" CodigoMunicipio="85400" Nombre="TÁMARA" />
+  <Municipio CodigoDepartamento="85" CodigoMunicipio="85410" Nombre="TAURAMENA" />
+  <Municipio CodigoDepartamento="85" CodigoMunicipio="85430" Nombre="TRINIDAD" />
+  <Municipio CodigoDepartamento="85" CodigoMunicipio="85440" Nombre="VILLANUEVA" />
+  <Municipio CodigoDepartamento="86" CodigoMunicipio="86001" Nombre="MOCOA" />
+  <Municipio CodigoDepartamento="86" CodigoMunicipio="86219" Nombre="COLÓN" />
+  <Municipio CodigoDepartamento="86" CodigoMunicipio="86320" Nombre="ORITO" />
+  <Municipio CodigoDepartamento="86" CodigoMunicipio="86568" Nombre="PUERTO ASÍS" />
+  <Municipio CodigoDepartamento="86" CodigoMunicipio="86569" Nombre="PUERTO CAICEDO" />
+  <Municipio CodigoDepartamento="86" CodigoMunicipio="86571" Nombre="PUERTO GUZMÁN" />
+  <Municipio CodigoDepartamento="86" CodigoMunicipio="86573" Nombre="PUERTO LEGUÍZAMO" />
+  <Municipio CodigoDepartamento="86" CodigoMunicipio="86749" Nombre="SIBUNDOY" />
+  <Municipio CodigoDepartamento="86" CodigoMunicipio="86755" Nombre="SAN FRANCISCO" />
+  <Municipio CodigoDepartamento="86" CodigoMunicipio="86757" Nombre="SAN MIGUEL" />
+  <Municipio CodigoDepartamento="86" CodigoMunicipio="86760" Nombre="SANTIAGO" />
+  <Municipio CodigoDepartamento="86" CodigoMunicipio="86865" Nombre="VALLE DEL GUAMUEZ" />
+  <Municipio CodigoDepartamento="86" CodigoMunicipio="86885" Nombre="VILLAGARZÓN" />
+  <Municipio CodigoDepartamento="88" CodigoMunicipio="88001" Nombre="SAN ANDRÉS" />
+  <Municipio CodigoDepartamento="88" CodigoMunicipio="88564" Nombre="PROVIDENCIA" />
+  <Municipio CodigoDepartamento="91" CodigoMunicipio="91001" Nombre="LETICIA" />
+  <Municipio CodigoDepartamento="91" CodigoMunicipio="91263" Nombre="EL ENCANTO" />
+  <Municipio CodigoDepartamento="91" CodigoMunicipio="91405" Nombre="LA CHORRERA" />
+  <Municipio CodigoDepartamento="91" CodigoMunicipio="91407" Nombre="LA PEDRERA" />
+  <Municipio CodigoDepartamento="91" CodigoMunicipio="91430" Nombre="LA VICTORIA" />
+  <Municipio CodigoDepartamento="91" CodigoMunicipio="91460" Nombre="MIRITÍ – PARANÁ" />
+  <Municipio CodigoDepartamento="91" CodigoMunicipio="91530" Nombre="PUERTO ALEGRÍA" />
+  <Municipio CodigoDepartamento="91" CodigoMunicipio="91536" Nombre="PUERTO ARICA" />
+  <Municipio CodigoDepartamento="91" CodigoMunicipio="91540" Nombre="PUERTO NARIÑO" />
+  <Municipio CodigoDepartamento="91" CodigoMunicipio="91669" Nombre="PUERTO SANTANDER" />
+  <Municipio CodigoDepartamento="91" CodigoMunicipio="91798" Nombre="TARAPACÁ" />
+  <Municipio CodigoDepartamento="94" CodigoMunicipio="94001" Nombre="INÍRIDA" />
+  <Municipio CodigoDepartamento="94" CodigoMunicipio="94343" Nombre="BARRANCOMINAS" />
+  <Municipio CodigoDepartamento="94" CodigoMunicipio="94663" Nombre="MAPIRIPANA" />
+  <Municipio CodigoDepartamento="94" CodigoMunicipio="94883" Nombre="SAN FELIPE" />
+  <Municipio CodigoDepartamento="94" CodigoMunicipio="94884" Nombre="PUERTO COLOMBIA" />
+  <Municipio CodigoDepartamento="94" CodigoMunicipio="94885" Nombre="LA GUADALUPE" />
+  <Municipio CodigoDepartamento="94" CodigoMunicipio="94886" Nombre="CACAHUAL" />
+  <Municipio CodigoDepartamento="94" CodigoMunicipio="94887" Nombre="PANA PANA" />
+  <Municipio CodigoDepartamento="94" CodigoMunicipio="94888" Nombre="MORICHAL NUEVO" />
+  <Municipio CodigoDepartamento="95" CodigoMunicipio="95001" Nombre="SAN JOSÉ DEL GUAVIARE" />
+  <Municipio CodigoDepartamento="95" CodigoMunicipio="95015" Nombre="CALAMAR" />
+  <Municipio CodigoDepartamento="95" CodigoMunicipio="95025" Nombre="EL RETORNO" />
+  <Municipio CodigoDepartamento="95" CodigoMunicipio="95200" Nombre="MIRAFLORES" />
+  <Municipio CodigoDepartamento="97" CodigoMunicipio="97001" Nombre="MITÚ" />
+  <Municipio CodigoDepartamento="97" CodigoMunicipio="97161" Nombre="CARURÚ" />
+  <Municipio CodigoDepartamento="97" CodigoMunicipio="97511" Nombre="PACOA" />
+  <Municipio CodigoDepartamento="97" CodigoMunicipio="97666" Nombre="TARAIRA" />
+  <Municipio CodigoDepartamento="97" CodigoMunicipio="97777" Nombre="PAPUNAHUA" />
+  <Municipio CodigoDepartamento="97" CodigoMunicipio="97889" Nombre="YAVARATÉ" />
+  <Municipio CodigoDepartamento="99" CodigoMunicipio="99001" Nombre="PUERTO CARREÑO" />
+  <Municipio CodigoDepartamento="99" CodigoMunicipio="99524" Nombre="LA PRIMAVERA" />
+  <Municipio CodigoDepartamento="99" CodigoMunicipio="99624" Nombre="SANTA ROSALÍA" />
+  <Municipio CodigoDepartamento="99" CodigoMunicipio="99773" Nombre="CUMARIBO" />
+</Municipios>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Departamentos>
+  <Departamento Nombre="Amazonas" Codigo="91"/>
+  <Departamento Nombre="Antioquia" Codigo="05"/>
+  <Departamento Nombre="Arauca" Codigo="81"/>
+  <Departamento Nombre="Atlántico" Codigo="08"/>
+  <Departamento Nombre="Bogotá" Codigo="11"/>
+  <Departamento Nombre="Bolívar" Codigo="13"/>
+  <Departamento Nombre="Boyacá" Codigo="15"/>
+  <Departamento Nombre="Caldas" Codigo="17"/>
+  <Departamento Nombre="Caquetá" Codigo="18"/>
+  <Departamento Nombre="Casanare" Codigo="85"/>
+  <Departamento Nombre="Cauca" Codigo="19"/>
+  <Departamento Nombre="Cesar" Codigo="20"/>
+  <Departamento Nombre="Chocó" Codigo="27"/>
+  <Departamento Nombre="Córdoba" Codigo="23"/>
+  <Departamento Nombre="Cundinamarca" Codigo="25"/>
+  <Departamento Nombre="Guainía" Codigo="94"/>
+  <Departamento Nombre="Guaviare" Codigo="95"/>
+  <Departamento Nombre="Huila" Codigo="41"/>
+  <Departamento Nombre="La Guajira" Codigo="44"/>
+  <Departamento Nombre="Magdalena" Codigo="47"/>
+  <Departamento Nombre="Meta" Codigo="50"/>
+  <Departamento Nombre="Nariño" Codigo="52"/>
+  <Departamento Nombre="Norte de Santander" Codigo="54"/>
+  <Departamento Nombre="Putumayo" Codigo="86"/>
+  <Departamento Nombre="Quindío" Codigo="63"/>
+  <Departamento Nombre="Risaralda" Codigo="66"/>
+  <Departamento Nombre="San Andrés y Providencia" Codigo="88"/>
+  <Departamento Nombre="Santander" Codigo="68"/>
+  <Departamento Nombre="Sucre" Codigo="70"/>
+  <Departamento Nombre="Tolima" Codigo="73"/>
+  <Departamento Nombre="Valle del Cauca" Codigo="76"/>
+  <Departamento Nombre="Vaupés" Codigo="97"/>
+  <Departamento Nombre="Vichada" Codigo="99"/>
+  <Departamento Nombre="NINGUNO" Codigo="0"/>
+</Departamentos>
