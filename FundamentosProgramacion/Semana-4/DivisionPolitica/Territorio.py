@@ -134,4 +134,3 @@ if depto != None:
         print(m.obtenerRegistro()["Nombre"])
 else:
     print("No existe departamento con ese codigo")
-
