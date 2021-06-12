@@ -28,7 +28,7 @@ class NotaMusical:
         # escala 4
         notas = ["do", "do#", "re", "re#", "mi", "fa", "fa#", "sol", "sol#", "la", "la#", "si"]
         valorD = []
-        d = -9
+        d = -9 # distancia en semitonos a la nota LA escala 4
         for n in notas:
             valorD.append(d)
             d += 1
