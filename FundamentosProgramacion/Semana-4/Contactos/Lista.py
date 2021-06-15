@@ -30,9 +30,94 @@ class Lista():
                 n = Nodo(datos[1], datos[3], datos[2])
                 varClase.agregar(n)
 
-    def mostrar(varClase):
+    def mostrar(varClase, prefijo):
         # recorrer la lista hasta el último nodo
         apuntador = varClase.cabeza
         while apuntador != None:
-            print(apuntador.nombre, apuntador.correo)
+            if prefijo == "" or apuntador.nombre.lower().startswith(prefijo.lower()):
+                print(apuntador.nombre, apuntador.correo)
             apuntador = apuntador.siguiente
+
+    def obtenerPredecesor(varClase, n):
+        predecesor = None
+        # El nodo no sea el nulo - la lista no esté vacía - el nodo que se busca no sea el nodo cabeza
+        if n != None and varClase.cabeza != None and varClase.cabeza!=n:
+            predecesor = varClase.cabeza
+            while predecesor != None and predecesor.siguiente!=n:
+                predecesor = predecesor.siguiente
+        return predecesor
+    
+    def intercambiar(varClase, n1, n2):
+        # ninguno de los dos nodos sea nulo - que no sean el mismo nodo
+        if n1 != None and n2 != None and n1 != n2:
+            # variable booleana para cambiar siguientes para al final realizar el cambio de siguientes
+            cambiarSiguientes = False
+            # obtención predecesores
+            predecesor1 = varClase.obtenerPredecesor(n1)
+            predecesor2 = varClase.obtenerPredecesor(n2)
+            # si nodo 1 no es cabeza
+            if predecesor1 != None:
+                # si nodo1 y nodo2 no son contiguos
+                if predecesor1!=n2:
+                    # el predecesor de n1 apuntará a n2
+                    predecesor1.siguiente = n2
+                    cambiarSiguientes = True
+                else:
+                    # intercambia nodos contiguos
+                    n2.siguiente = n1.siguiente
+                    n1.siguiente = n2
+                    # predecesor del segundo nodo es diferente de nulo (no es cabeza)
+                    if predecesor2 != None:
+                        predecesor2.siguiente = n1
+            else:
+                # el primer nodo es el cabeza
+                varClase.cabeza = n2
+                cambiarSiguientes = True
+            # si nodo 2 no es cabeza
+            if predecesor2 != None:
+                # no son nodos contiguos
+                if predecesor2!=n1:
+                    predecesor2.siguiente = n1
+                    cambiarSiguientes = True
+                else:
+                    # son nodos contiguos
+                    cambiarSiguientes = False
+                    n1.siguiente = n2.siguiente
+                    n2.siguiente = n1
+                    # nodo 1 no es cabeza
+                    if predecesor1 != None:
+                        predecesor1.siguiente = n2
+            else:
+                # el nodo dos es cabeza
+                varClase.cabeza = n1
+                cambiarSiguientes = True
+
+            # intercambia los apuntadores
+            if cambiarSiguientes:
+                siguiente1 = n1.siguiente
+                n1.siguiente = n2.siguiente
+                n2.siguiente = siguiente1
+
+    def ordenar(varClase):
+        '''Ordenar acendentemente la lista por el nombre alfabéticamente'''
+        # hay datos para ordenar?
+        if varClase.cabeza != None:
+            # inicia en el nodo cabeza
+            # el recorrido de la lista se hace con apuntador1
+            apuntador1 = varClase.cabeza
+            while apuntador1.siguiente != None:
+                # el recorrido de los siguienes se hace con apuntador 2
+                apuntador2 = apuntador1.siguiente
+                while apuntador2 != None:
+                    # intercambiar siempre y cuando el nombre siguiente sea menor
+                    if apuntador1.nombre > apuntador2.nombre:
+                        n1 = apuntador1
+                        n2 = apuntador2
+                        varClase.intercambiar(n1, n2)
+                        # organizar lo apuntadores luego de intercambiarlos
+                        apuntador1 = n2
+                        apuntador2 = n1
+                    # pasar al siguiente apuntador2
+                    apuntador2 = apuntador2.siguiente
+                apuntador1 = apuntador1.siguiente
+            

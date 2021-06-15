@@ -16,7 +16,7 @@ contactos = Lista()
 contactos.desdeArchivo("Contactos.txt")
 
 opcionMenu = 0
-while opcionMenu != 8:
+while opcionMenu != 7:
     print("********** Menú de Contactos **********")
     print("1. Agregar contacto")
     print("2. Listar")
@@ -24,8 +24,7 @@ while opcionMenu != 8:
     print("4. Modificar contacto")
     print("5. Quitar contacto")
     print("6. Ordenar")
-    print("7. Guardar")
-    print("8. Salir")
+    print("7. Salir")
 
     opcionMenu = leerNumero("Opcion escogida?")
 
@@ -37,8 +36,7 @@ while opcionMenu != 8:
         n = Nodo(nombre, movil, correo)
         contactos.agregar(n)
     elif opcionMenu == 2:
-        prefijo = input("Mostrar que comience por: ")
-        contactos.mostrar(prefijo)
+        contactos.mostrar()
     elif opcionMenu == 3:
         print("No implementado")
     elif opcionMenu == 4:
@@ -46,7 +44,11 @@ while opcionMenu != 8:
     elif opcionMenu == 5:
         print("No implementado")
     elif opcionMenu == 6:
-        contactos.ordenar()
-        print("La lista fue ordenada alfabéticamente")
+        print("No implementado")
     elif opcionMenu != 7:
         print("Opcion no válida")
+
+    
+
+
+
