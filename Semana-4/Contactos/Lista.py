@@ -23,19 +23,19 @@ class Lista():
     def desdeArchivo(varClase, nombreArchivo):
         # limpiar lista
         varClase.cabeza = None
-        objFile = open(nombreArchivo, "r")
-        for linea in objFile:
-            datos = linea.split(";")
-            if len(datos) >= 4:
-                n = Nodo(datos[1], datos[3], datos[2])
-                varClase.agregar(n)
+        with open(nombreArchivo, "r") as objFile:
+            for linea in objFile:
+                datos = linea.split(";")
+                if len(datos) >= 4:
+                    n = Nodo(datos[1], datos[3], datos[2], datos[0])
+                    varClase.agregar(n)
 
-    def mostrar(varClase, prefijo):
+    def listar(varClase, prefijo):
         # recorrer la lista hasta el último nodo
         apuntador = varClase.cabeza
         while apuntador != None:
             if prefijo == "" or apuntador.nombre.lower().startswith(prefijo.lower()):
-                print(apuntador.nombre, apuntador.correo)
+                print(apuntador.nombre, apuntador.correo, apuntador.movil)
             apuntador = apuntador.siguiente
 
     def obtenerPredecesor(varClase, n):
@@ -120,4 +120,49 @@ class Lista():
                     # pasar al siguiente apuntador2
                     apuntador2 = apuntador2.siguiente
                 apuntador1 = apuntador1.siguiente
-            
+
+    def buscar(varClase, clave):
+        '''Buscar un contacto por nombre con una clave'''
+        global registro
+        registro = {}
+        i = 1
+        # recorrer lista lisgada
+        apuntador = varClase.cabeza
+        while apuntador != None:
+            if apuntador.nombre.startswith(clave):
+                registro[i] = apuntador
+                i += 1
+            apuntador = apuntador.siguiente
+        
+        return registro
+
+    def modificar(varClase, nodo, nombre, movil, correo):
+        '''Modificar el contacto seleccionado en buscar'''
+        if nodo:
+            nodo.actualizar(nombre, movil, correo)
+            print("\nContacto modificado:")
+            nodo.mostrar()
+        else:
+            print("No hay contacto seleccionado")
+
+    def quitar(varClase, nodo):
+        if nodo != None:
+            # nodo es cabeza
+            if nodo == varClase.cabeza:
+                varClase.cabeza = nodo.siguiente
+            # nodo en medio
+            else:
+                anteriorNodo = varClase.obtenerPredecesor(nodo)
+                anteriorNodo.siguiente = nodo.siguiente
+            # Si nodo es último, el nodo anterior apuntará a None
+            nodo = None
+
+    def guardarEnArchivo(varClase, nombreArchivo):
+        with open(nombreArchivo, "w") as objFile:
+            # recorrer la lista
+            apuntador = varClase.cabeza
+            while apuntador != None:
+                linea = "{};{};{};{}".format(apuntador.cedula, apuntador.nombre, apuntador.correo, apuntador.movil)
+                objFile.write(linea)
+                objFile.write("\n")
+                apuntador = apuntador.siguiente
