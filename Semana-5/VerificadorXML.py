@@ -121,5 +121,5 @@ class VerificadorXML():
 
         if error:
             lineaError = linea
-            inicioLineaError = inicioLinea
+            VerificadorXML.inicioLineaError = inicioLinea
         return not error

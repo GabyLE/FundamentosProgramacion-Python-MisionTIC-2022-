@@ -1,14 +1,18 @@
-class Pila:
+class Cola:
     #Metodo constructor
     def __init__(varClase):
         varClase.datos=[]
 
-    def apilar(varClase, dato):
+    def encolar(varClase, dato):
         varClase.datos.append(dato)
 
-    def desapilar(varClase):
-        if not varClase.vacia:
-            dato=varClase.datos.pop()
+    def desencolar(varClase):
+        if not varClase.vacia():
+            # asigna valor a una variable
+            dato = varClase.datos[0]
+            # elimina el valor del arreglo
+            del varClase.datos[0]
+            # retorna la variable con el valor asignado
             return dato
         else:
             return None
@@ -20,7 +24,5 @@ class Pila:
             return None
 
     def vacia(varClase):
-        if len(varClase.datos)==0:
-            return True
-        else:
-            return False
+        return len(varClase.datos)==0
+        
