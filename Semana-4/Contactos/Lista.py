@@ -1,4 +1,6 @@
 from Nodo import Nodo
+from tkinter import *
+from tkinter import ttk
 
 class Lista():
     def __init__(varClase):
@@ -36,6 +38,13 @@ class Lista():
         while apuntador != None:
             if prefijo == "" or apuntador.nombre.lower().startswith(prefijo.lower()):
                 print(apuntador.nombre, apuntador.correo, apuntador.movil)
+            apuntador = apuntador.siguiente
+
+    def listarGUI(varClase, treeview):
+        # recorrer la lista hasta el último nodo
+        apuntador = varClase.cabeza
+        while apuntador != None:
+            treeview.insert("", END, text = apuntador.nombre, values = (apuntador.movil, apuntador.correo))
             apuntador = apuntador.siguiente
 
     def obtenerPredecesor(varClase, n):

@@ -19,3 +19,5 @@ class Nodo():
         print("Nombre:", varClase.nombre)
         print("Móvil:", varClase.movil)
         print("Correo:", varClase.correo)
+
+    
