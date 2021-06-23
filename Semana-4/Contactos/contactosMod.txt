@@ -53,7 +53,7 @@ SAINEA JUAN;PABLO;jpsainea@gmail.com;3057932516
 MARIN;JAMES;jamesmarin23@gmail.com;3087759943
 RUIZ;CHRISTIAN;christianrruiz@gmail.com;3219346092
 MEDINA MARIN;NORBERTO;norbertomedinamarin@gmail.com;3097186933
-RAMIREZ;DAMIAN;ldsdamian@gmail.com;3105803201
+;DAMIAN;ldsdamian@gmail.com;3105803201
 VALDES MUNOZ;YERSON ANDRES;yavaldes92@misena.edu.co;3064959993
 VACA;CRISTHIAN;fernandovacascn@gmail.com;3074517646
 OSPINA GRAJALES;JORGE ARMANDO;armandodvhc@gmail.com;3058321453

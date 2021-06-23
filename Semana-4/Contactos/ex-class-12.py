@@ -58,8 +58,7 @@ while opcionMenu != 8:
         nombre = input("Nombre: ").upper()
         movil = input("Móvil: ")
         correo = input("Correo: ")
-        cedula = input("Cédula: ")
-        n = Nodo(apellido + " " + nombre, movil, correo, cedula)
+        n = Nodo(nombre, apellido, movil, correo)
         contactos.agregar(n)
     # Listar contactos
     elif opcionMenu == 2:
@@ -74,10 +73,11 @@ while opcionMenu != 8:
     elif opcionMenu == 4:
         print("Registro actual:")
         nodoBuscado.mostrar()
+        apellido2 = input("Apellido: ").upper()
         nombre2 = input("Nombre: ").upper()
         movil2 = input("Móvil: ")
         correo2 = input("Correo: ")
-        contactos.modificar(nodoBuscado, nombre2, movil2, correo2)
+        contactos.modificar(nodoBuscado, nombre2, apellido2, movil2, correo2)
     # Eliminar contacto seleccionado
     elif opcionMenu == 5:
         contactos.quitar(nodoBuscado)
@@ -88,7 +88,7 @@ while opcionMenu != 8:
         print("La lista fue ordenada alfabéticamente")
     # Guardar lista de contactos en archivo
     elif opcionMenu == 7:
-        contactos.guardarEnArchivo("Contactos.txt")
+        contactos.guardarEnArchivo("contactosMod.txt")
         print("El lista fue guardada en el archivo 'Contactos.txt'")
     # Salir del aplicativo
     elif opcionMenu != 8:

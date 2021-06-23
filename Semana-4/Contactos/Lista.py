@@ -2,6 +2,7 @@ from Nodo import Nodo
 from tkinter import *
 from tkinter import ttk
 
+
 class Lista():
     def __init__(varClase):
         varClase.cabeza = None
@@ -29,7 +30,7 @@ class Lista():
             for linea in objFile:
                 datos = linea.split(";")
                 if len(datos) >= 4:
-                    n = Nodo(datos[1], datos[3], datos[2], datos[0])
+                    n = Nodo(datos[1], datos[0], datos[2], datos[3])
                     varClase.agregar(n)
 
     def listar(varClase, prefijo):
@@ -37,15 +38,9 @@ class Lista():
         apuntador = varClase.cabeza
         while apuntador != None:
             if prefijo == "" or apuntador.nombre.lower().startswith(prefijo.lower()):
-                print(apuntador.nombre, apuntador.correo, apuntador.movil)
+                print(apuntador.apellido, apuntador.nombre, apuntador.correo, apuntador.movil)
             apuntador = apuntador.siguiente
 
-    def listarGUI(varClase, treeview):
-        # recorrer la lista hasta el último nodo
-        apuntador = varClase.cabeza
-        while apuntador != None:
-            treeview.insert("", END, text = apuntador.nombre, values = (apuntador.movil, apuntador.correo))
-            apuntador = apuntador.siguiente
 
     def obtenerPredecesor(varClase, n):
         predecesor = None
@@ -119,7 +114,7 @@ class Lista():
                 apuntador2 = apuntador1.siguiente
                 while apuntador2 != None:
                     # intercambiar siempre y cuando el nombre siguiente sea menor
-                    if apuntador1.nombre > apuntador2.nombre:
+                    if apuntador1.apellido > apuntador2.apellido:
                         n1 = apuntador1
                         n2 = apuntador2
                         varClase.intercambiar(n1, n2)
@@ -138,17 +133,17 @@ class Lista():
         # recorrer lista lisgada
         apuntador = varClase.cabeza
         while apuntador != None:
-            if apuntador.nombre.startswith(clave):
+            if apuntador.nombre.startswith(clave) or apuntador.apellido.startswith(clave):
                 registro[i] = apuntador
                 i += 1
             apuntador = apuntador.siguiente
         
         return registro
 
-    def modificar(varClase, nodo, nombre, movil, correo):
+    def modificar(varClase, nodo, nombre, apellido, movil, correo):
         '''Modificar el contacto seleccionado en buscar'''
         if nodo:
-            nodo.actualizar(nombre, movil, correo)
+            nodo.actualizar(nombre, apellido, movil, correo)
             print("\nContacto modificado:")
             nodo.mostrar()
         else:
@@ -171,7 +166,8 @@ class Lista():
             # recorrer la lista
             apuntador = varClase.cabeza
             while apuntador != None:
-                linea = "{};{};{};{}".format(apuntador.cedula, apuntador.nombre, apuntador.correo, apuntador.movil)
+                linea = "{};{};{};{}".format(apuntador.apellido, apuntador.nombre, apuntador.correo, apuntador.movil)
                 objFile.write(linea)
                 objFile.write("\n")
                 apuntador = apuntador.siguiente
+
