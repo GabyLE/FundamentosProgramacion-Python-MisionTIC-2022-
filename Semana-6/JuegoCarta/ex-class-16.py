@@ -6,6 +6,8 @@ from tkinter.ttk import Notebook
 
 #importar CAJA DE MENSAJES
 from tkinter import messagebox
+from Jugador import Jugador
+
 
 #Crear una ventana
 v = Tk()
@@ -17,11 +19,26 @@ mnuP = Menu(v)
 #Agregar a la ventana
 v.config(menu=mnuP)
 
+# instancias de los dos Jugadores
+j1 = Jugador()
+j2 = Jugador()
+
 def repartir():
-    messagebox.showinfo("Probando Menu", "Hizo clic en REPARTIR")
+    global j1, j2
+    j1.repartir()
+    j2.repartir()
+
+    j1.mostrar(f1)
+    j2.mostrar(f2)
 
 def verificar():
-    messagebox.showinfo("Probando Menu", "Hizo clic en VERIFICAR")
+    global j1, j2
+
+    # pregunta por el indice de la pestaña seleccionada
+    if nbJ.index(nbJ.select()) == 0:
+        messagebox.showinfo("JUGADOR 1", j1.verificar())
+    elif nbJ.index(nbJ.select()) == 1:
+        messagebox.showinfo("JUGADOR 2", j2.verificar())
 
 def salir():
     v.destroy()
@@ -42,10 +59,10 @@ nbJ.pack(fill="both", expand="yes")
 f1 = Frame(nbJ, bg="green")
 f2 = Frame(nbJ, bg="lightblue")
 
-nbJ.add(f1, text="Martin Estrada Contreras")
-nbJ.add(f2, text="Raúl Vidal")
+nbJ.add(f1, text="Jugador 1")
+nbJ.add(f2, text="Jugador 2")
 
 
-
+v.mainloop()
 
 
