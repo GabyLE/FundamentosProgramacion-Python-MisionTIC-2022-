@@ -8,6 +8,8 @@ from tkinter.ttk import Notebook
 from tkinter import messagebox
 from Jugador import Jugador
 
+from Baraja import Baraja
+
 
 #Crear una ventana
 v = Tk()
@@ -23,10 +25,13 @@ v.config(menu=mnuP)
 j1 = Jugador()
 j2 = Jugador()
 
+# baraja del juego
+b = Baraja()
+
 def repartir():
     global j1, j2
-    j1.repartir()
-    j2.repartir()
+    j1.repartir(b)
+    j2.repartir(b)
 
     j1.mostrar(f1)
     j2.mostrar(f2)

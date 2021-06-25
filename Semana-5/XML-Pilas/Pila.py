@@ -4,10 +4,12 @@ class Pila:
         varClase.datos=[]
 
     def apilar(varClase, dato):
+        # adiciona un elemento a la lista al final
         varClase.datos.append(dato)
 
     def desapilar(varClase):
         if not varClase.vacia:
+            # retorna y elimina el ultimo dato de la lista
             dato=varClase.datos.pop()
             return dato
         else:

@@ -1,5 +1,6 @@
 from Carta import Carta
 from Enumerados import *
+from Baraja import Baraja
 
 class Jugador():
 
@@ -8,11 +9,25 @@ class Jugador():
     def __init__(varClase):
         varClase.cartas = []
 
-    def repartir(varClase):
+    # def repartir(varClase):
+    #     varClase.cartas = []
+    #     for i in range(Jugador.TOTAL_CARTAS):
+    #         c = Carta()
+    #         varClase.cartas.append(c)
+
+    def repartir(varClase, b):
+        
         varClase.cartas = []
-        for i in range(Jugador.TOTAL_CARTAS):
+        cond = 0
+        while cond != -1:
             c = Carta()
-            varClase.cartas.append(c)
+            if b.verificaDisponibilidad(c) and len(varClase.cartas) < 10:
+                varClase.cartas.append(c)
+                b.cambiaDisponibilidad(c)
+
+            if len(varClase.cartas) == Jugador.TOTAL_CARTAS:
+                cond = -1
+                
 
     def mostrar(varClase, frm):
         x = 10

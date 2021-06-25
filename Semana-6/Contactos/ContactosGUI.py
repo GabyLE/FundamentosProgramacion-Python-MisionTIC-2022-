@@ -17,6 +17,15 @@ iconos = ["./iconos/agregar.png", \
           "./iconos/cancelar.png", \
           ]
 
+# lista tooldip para los botones
+textoToolTip =["agregar Contacto", \
+                "modificar Contacto", \
+                "quitar Contacto", \
+                "guardar Cambios", \
+                "oredenar Lista", \
+                "aceptar Cambios", \
+                "cancelar Cambios"]
+
 #posiciones de los botones de edición para habilitarlos/deshabilitarlos
 indiceBA = 5
 indiceBC = 6
@@ -58,8 +67,9 @@ def habilitar(editando):
 
 #Metodo que muestra los contactos en una tabla
 def mostrar():
+    global tContactos
     datos = Contacto.pasarMatriz()
-    Util.mostrarTabla(paneles[0], encabezados, datos, tContactos)
+    tContactos = Util.mostrarTabla(paneles[0], encabezados, datos, tContactos)
 
 #Método para limpiar los objetos de la edicion de un Contacto
 def limpiar():
@@ -68,7 +78,7 @@ def limpiar():
     txtNombre.Text = ""
     txtCorreo.Text = ""
     txtMovil.Text = ""
-    paneles[1].Text = "Editando datos de un nuevo Contacto"
+    # paneles[1].Text = "Editando datos de un nuevo Contacto"
 
 #Metodo para ir a la edición de un registro
 def iniciarEdicion():
@@ -86,10 +96,17 @@ def iniciarEdicion():
         limpiar()
 
 def agregar():
-    pass
+    Contacto.indice = -1
+    iniciarEdicion()
     
 def modificar():
-    pass
+    global tContactos
+    # verificar si hay un contacto seleccionado
+    if tContactos.selection():
+        Contacto.indice = tContactos.index(tContactos.selection())
+        iniciarEdicion()
+    else:
+        messagebox.showinfo("", "Debe seleccionar un contacto")
 
 def eliminar():
     pass
@@ -101,7 +118,16 @@ def ordenar():
     pass
 
 def aceptar():
-    pass
+    if Contacto.indice == -1:
+        Contacto.agregar(txtId.get(), txtNombre.get(), txtCorreo.get(), txtMovil.get())
+        messagebox.showinfo("", "Contacto agregado al final de la lista")
+    else:
+        Contacto.modificar(txtId.get(), txtNombre.get(), txtCorreo.get(), txtMovil.get())
+        messagebox.showinfo("", "El contacto fue modificado")
+   # Volver al modo listado
+    habilitar(False)
+    mostrar()
+    
 
 def cancelar():
     pass
@@ -109,7 +135,8 @@ def cancelar():
 #Construir interfaz gráfica
 v = Tk()
 v.title("Mis contactos")
-botones = Util.agregarBarra(v, iconos) #Agrega una barra de herramientas
+botones = Util.agregarBarra(v, iconos, textoToolTip) #Agrega una barra de herramientas
+
 nb = Notebook(v)
 nb.pack(fill=BOTH, expand=YES)
 
@@ -130,11 +157,16 @@ txtMovil=Util.agregarTexto(paneles[1], 30, 3, 1)
 
 
 # Comenzar despliegue de los datos
-
 habilitar(False)
 Contacto.obtener("Contactos.txt")
 mostrar()
 
+# Agregar los eventos asociados a los botones
+botones[0].configure(command = agregar)
+botones[1].configure(command = modificar)
+
+botones[5].configure(command = aceptar)
+botones[6].configure(command = cancelar)
 
 v.mainloop()
 

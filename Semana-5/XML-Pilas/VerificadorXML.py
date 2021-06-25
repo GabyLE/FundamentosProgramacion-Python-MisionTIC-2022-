@@ -22,6 +22,7 @@ class VerificadorXML():
         else:
             return False
 
+    # asigna un mensaje a la variable errorVerificando
     def asignarError(mensaje):
         VerificadorXML.errorVerificando = mensaje
         return True
@@ -35,13 +36,18 @@ class VerificadorXML():
         i = 0
         linea = 1
         inicioLinea = 0
+        # Etiqueta en XML <Etiqueta>
+        # Mientras el texto de la etiqueta sea diferente a >, es decir, el fin de la etiqueta
         while VerificadorXML.textoXML[i] != ">":
+            # Asigna nombre etiqueta a textoEtiqueta
             textoEtiqueta += VerificadorXML.textoXML[i]
             i += 1
+        # Adiciona simbolo > a textoEtiquete. Resultado textoEtiqueta: "<Nombre Etiqueta>"
         textoEtiqueta += ">"
         
         b1=textoEtiqueta.startswith("<?xml")
         b2=textoEtiqueta.endswith("?>")
+        # Si es una etiqueta
         if textoEtiqueta.startswith("<?xml") and textoEtiqueta.endswith("?>"):
             linea += 1
             inicioLinea = i
