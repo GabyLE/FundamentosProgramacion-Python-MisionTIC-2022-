@@ -85,12 +85,12 @@ def iniciarEdicion():
     habilitar(True)
     #Se esta editando un Contacto existente?
     if Contacto.indice >= 0:
-        c = Contacto.contactos[Contacto.indice]
+        c = Contacto.obtenerActual()
         if c != None:
-            Util.mostrar(txtId, c.id, False)
-            Util.mostrar(txtNombre, c.nombre, False)
-            Util.mostrar(txtCorreo, c.correo, False)
-            Util.mostrar(txtMovil, c.movil, False)
+            cajasTexto = [txtId, txtNombre, txtCorreo, txtMovil]
+            for i in range(len(cajasTexto)):
+                Util.mostrar(cajasTexto[i], c[Contacto.campos[i]], False)
+            
             # paneles[1].Text = "Editando datos del Contacto [" + c.nombre + "]"
     else:
         limpiar()

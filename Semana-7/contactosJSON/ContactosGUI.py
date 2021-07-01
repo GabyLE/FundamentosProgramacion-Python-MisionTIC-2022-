@@ -123,7 +123,7 @@ def eliminar():
         messagebox.showinfo("", "Debe seleccionar un contacto")
 
 def guardar():
-    Contacto.guardar("Contactos.csv")
+    Contacto.guardar("Contactos.json")
     messagebox.showinfo("", "La información fue guardada exitosamente")
 
 def ordenar():
@@ -172,7 +172,7 @@ txtMovil=Util.agregarTexto(paneles[1], 30, 3, 1)
 
 # Comenzar despliegue de los datos
 habilitar(False)
-Contacto.obtener("Contactos.csv")
+Contacto.obtener("Contactos.json")
 mostrar()
 
 # Agregar los eventos asociados a los botones

@@ -1,7 +1,7 @@
+import json
 
-class Contacto:
+class Contacto():
 
-    # ATRIBUTOS ESTÁTICOS
     #posición del registro a editar
     indice = -1
     #lista de contactos
@@ -23,33 +23,28 @@ class Contacto:
         varClase.correo = correo
         varClase.movil = movil 
 
-    # Obtener la lista de Contactos o un contacto en particular desde un archivo
+    #Obtener la lista de Contactos o un contacto en particular desde un archivo
     @staticmethod
     def obtener(nombreArchivo, id=""):
-        lineas = open(nombreArchivo, "r")
-        if id == "":
-            Contacto.contactos = []
-            Contacto.indice = -1
-            for linea in lineas:
-                datos = linea.split(";")
-                if len(datos)>=4:
-                    c = Contacto(datos[0], datos[1], datos[2], datos[3])
-                    Contacto.contactos.append(c)
-        else:
-            for linea in lineas:
-                datos = linea.split(";")
-                if datos[0] == id:
-                    c = Contacto(datos[0], datos[1], datos[2], datos[3])
-                    return c
-            return None
+        with open(nombreArchivo, "r") as archivoJSON:
+            datos = json.load(archivoJSON)
+            # datos es un diccionario
+            for d in datos:
+                c = Contacto(d["id"], d["nombre"], d["correo"], d["movil"])
+                Contacto.contactos.append(c)
 
     #Convertir los registros en una matriz de textos
     @staticmethod
     def pasarMatriz():
-        datos = []
-        for contacto in Contacto.contactos:
-            datos.append([contacto.id, contacto.nombre, contacto.correo, contacto.movil])
-        return datos
+        matriz = []
+        for jesus in Contacto.contactos:
+            linea = []
+            linea.append(jesus.id)
+            linea.append(jesus.nombre)
+            linea.append(jesus.correo)
+            linea.append(jesus.movil)
+            matriz.append(linea)
+        return matriz
 
     #Método para Agregar un Contacto
     @staticmethod
@@ -72,28 +67,22 @@ class Contacto:
     #Método para Ordenar la lista de Contactos
     @staticmethod
     def ordenar():
-        # metodo de la burbuja
-        for i in range(len(Contacto.contactos) - 1):
+        for i in range(len(Contacto.contactos)-1):
             for j in range(i+1, len(Contacto.contactos)):
                 if Contacto.contactos[i].nombre > Contacto.contactos[j].nombre:
-                    # intercambio de contactos
+                    #intercambio de contactos
                     t = Contacto.contactos[i]
                     Contacto.contactos[i] = Contacto.contactos[j]
                     Contacto.contactos[j] = t
 
+
     #Método para Guardar los Contactos en un archivo
     @staticmethod
     def guardar(nombreArchivo):
-        # abrir archivo para escritura
-        archivo = open(nombreArchivo, "w")
-        for c in Contacto.contactos:
-            linea = "{};{};{};{}".format(c.id, c.nombre, c.correo, c.movil)
-            # escribe cada linea en el archivo
-            archivo.write(linea)
-        # cerrar el archivo
-        archivo.close()
-
-
+        #abrir el archivo para escritura
+        with open(nombreArchivo, "w") as archivoJSON:
+            #convertir a texto JSON y guardarlo
+            json.dump([c.__dict__ for c in Contacto.contactos], archivoJSON)
         
 
     
