@@ -8,13 +8,13 @@ from Contacto import Contacto
 
 
 #Lista de imágenes para los botones
-iconos = ["./iconos/agregar.png", \
-          "./iconos/editar.png", \
-          "./iconos/eliminar.png", \
-          "./iconos/guardar.png", \
-          "./iconos/ordenar.png", \
-          "./iconos/aceptar.png", \
-          "./iconos/cancelar.png", \
+iconos = ["iconos/agregar.png", \
+          "iconos/editar.png", \
+          "iconos/eliminar.png", \
+          "iconos/guardar.png", \
+          "iconos/ordenar.png", \
+          "iconos/aceptar.png", \
+          "iconos/cancelar.png", \
           ]
 
 # lista tooldip para los botones

@@ -55,3 +55,4 @@ cmbDepto.bind("<<ComboboxSelected>>", obtenerMpios)
 frm = Frame(v)
 frm.grid(row=1, column=0, columnspan=2)
 
+v.mainloop()
