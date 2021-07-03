@@ -32,7 +32,7 @@ def repartir():
         cartas.append(nc)
 
         # Mostrar la carta
-        mostrarCarta(f, c, "Carta" + str(nc) + ".gif")
+        mostrarCarta(f, c, "cartas/Carta" + str(nc) + ".gif")
         
         c = c + 1
 

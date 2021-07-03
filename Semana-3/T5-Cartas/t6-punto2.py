@@ -57,8 +57,8 @@ def repartir():
         nc1 = cartas_P1[i]
         nc2 = cartas_P2[i]
         # Mostrar la carta
-        fun.mostrarCarta(f, c, "Carta" + str(nc1) + ".gif", tab1)
-        fun.mostrarCarta(f, c, "Carta" + str(nc2) + ".gif", tab2)
+        fun.mostrarCarta(f, c, "cartas/Carta" + str(nc1) + ".gif", tab1)
+        fun.mostrarCarta(f, c, "cartas/Carta" + str(nc2) + ".gif", tab2)
         
         c = c + 1
 
@@ -88,7 +88,7 @@ def cartaMayor():
             ncMayor = cartaMayor2
             mensaje = "Gana el Jugador 2"
     
-    fun.mostrarCarta(0, 2, "Carta" + str(ncMayor) + ".gif", root)
+    fun.mostrarCarta(0, 2, "cartas/Carta" + str(ncMayor) + ".gif", root)
     messagebox.showinfo("Ganador", mensaje)
 
 

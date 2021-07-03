@@ -1,5 +1,11 @@
 from tkinter import *
 import csv
+# importing sys
+import sys
+  
+# adding Folder_2 to the system path
+sys.path.insert(0, 'E:/misiontic-2022/fundamentosprogramacion/semana-7/utilidades')
+ 
 import Util
 
 nombreArchivo = "ciudades.csv"
